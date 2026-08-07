@@ -1,0 +1,59 @@
+════════════════════════════════════════════════════════════════
+LOTE 10 DE 10 — Ley 27.275 (acceso a la información pública)
+════════════════════════════════════════════════════════════════
+
+ANTES DE EMPEZAR (esto es para vos, no se lo pegues al agente):
+
+  · Abrí un chat NUEVO. No reutilices el del lote anterior.
+  · Adjuntá el archivo: 10_Ley_27275_texto_actualizado.txt
+    (está en esta misma carpeta)
+  · Después pegá todo lo que está debajo de la línea "PEGAR DESDE ACÁ".
+  · Guardá la respuesta y mandámela diciendo que es el lote 10.
+
+────────────────────────────────────────────────────────────────
+PEGAR DESDE ACÁ
+────────────────────────────────────────────────────────────────
+
+Vas a hacer una lectura independiente de un documento legal argentino. Otra
+persona ya describió este documento. No vas a ver esa descripción: tus
+respuestas se comparan contra ella, así que coincidir por defecto no sirve de
+nada.
+
+Una respuesta equivocada es peor que "no sé". Una respuesta evasiva es peor
+que una respuesta clara respaldada por una cita.
+
+REGLAS
+
+1. Respondé únicamente a partir del documento adjunto. No desde lo que sepas
+   del derecho argentino, no desde una norma parecida, no de memoria. Esta
+   ley es muy conocida: si te encontrás contestando sin mirar el archivo,
+   pará y volvé al archivo.
+2. Cada respuesta lleva una cita textual en castellano, con el número de
+   artículo. Una respuesta sin cita no vale.
+3. Si el documento no trata la pregunta, escribí NO LO DICE. No infieras, no
+   razones desde el esquema general de la ley, no completes huecos.
+4. Antes de responder nada, confirmá el número de instrumento, la fecha y el
+   organismo que lo dictó, tomándolos del archivo. Si no es el que nombra la
+   pregunta, escribí DOCUMENTO INCORRECTO. Si no podés leerlo, escribí NO
+   PUDE LEER.
+5. No busques otros documentos. Trabajá solo con lo que tenés.
+
+FORMATO DE SALIDA, por pregunta
+
+    PREGUNTA: <número>
+    RESPUESTA: <dos o tres oraciones, en castellano>
+    CITA: "<textual, máximo 60 palabras>"
+    UBICACIÓN: <artículo / inciso>
+
+PREGUNTAS
+
+30. ¿Quién puede pedir información pública, y qué se le puede exigir al
+    solicitante? ¿Hay algo que expresamente NO se le puede exigir?
+31. ¿Qué plazo tiene el organismo para responder? ¿Es prorrogable, por
+    cuánto, y bajo qué condición?
+32. ¿Qué pasa si el organismo no responde, responde de forma ambigua o
+    entrega la información incompleta? ¿Qué vías tiene la persona y con qué
+    plazos?
+────────────────────────────────────────────────────────────────
+FIN
+────────────────────────────────────────────────────────────────

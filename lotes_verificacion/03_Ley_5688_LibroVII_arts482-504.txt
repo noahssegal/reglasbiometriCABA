@@ -1,0 +1,248 @@
+5.
+
+Proveer vestimenta uniforme al personal con identificación visible del nombre, apellido y
+número de registro.
+
+Artículo 482.- El personal de seguridad registrado bajo este título sólo puede cumplir funciones de
+seguridad en el establecimiento denunciado por su empleador. Debe cumplir, a su vez, con las
+obligaciones dispuestas en el artículo 466, incisos 1, 2 y 3.
+
+Artículo 483.- En todo lo que no esté previsto por este Libro se aplicará la Ley Nacional Nº 26.370
+#, que establece las reglas de habilitación del personal que realiza tareas de control de admisión y
+permanencia de público en general, para empleadores cuya actividad consista en la organización y
+explotación de eventos y espectáculos públicos.
+
+Artículo 484.- La infracción a lo estipulado en este Libro será objeto de las sanciones establecidas
+por la Ley 451 Régimen de Faltas de la Ciudad Autónoma de Buenos Aires #.
+
+LIBRO VII
+SISTEMA PÚBLICO INTEGRAL DE VIDEO VIGILANCIA DE LA CIUDAD AUTÓNOMA DE
+BUENOS AIRES
+
+TÍTULO I
+CREACIÓN, OBJETO Y PRINCIPIOS
+
+Artículo. 485.- Créase el Sistema Público Integral de Video Vigilancia de la Ciudad Autónoma de
+Buenos Aires.
+
+Artículo 486.- El presente título regula la utilización por parte del Poder Ejecutivo de los sistemas de
+video vigilancia destinados a grabar imágenes en lugares públicos y a los que se refieren los artículos
+497 y 498, estableciendo específicamente el posterior tratamiento de tales imágenes y el régimen de
+garantías de los derechos fundamentales y libertades públicas de los ciudadanos que habrá de
+respetarse ineludiblemente en las sucesivas fases de grabación y uso de las imágenes.
+
+Artículo 487.- La utilización del sistema integral de video vigilancia está regida por el principio de
+proporcionalidad y razonabilidad, en su doble versión de procedencia y de intervención mínima. La
+procedencia determina que sólo podrá emplearse cuando resulte adecuado, en una situación
+concreta, para asegurar la convivencia ciudadana, la utilización pacífica de las vías y espacios
+públicos, la elaboración de políticas públicas de planificación urbana, así como para la prevención
+
+de faltas, contravenciones y delitos y otras infracciones relacionadas con la seguridad pública. La
+intervención mínima exige la ponderación en cada caso de la finalidad pretendida y la posible
+afectación al derecho a la propia imagen, a la intimidad y a la privacidad de las personas, de
+conformidad con los principios consagrados en la Constitución Nacional # y la Constitución de la
+Ciudad Autónoma de Buenos Aires #.
+
+TÍTULO II
+PRINCIPIOS RECTORES
+
+Artículo 488.- La gestión del sistema público integral de video vigilancia, se sujeta a los siguientes
+principios rectores:
+1.
+
+Planificación estratégica: se rige por medio de planes de acción basados en criterios
+estratégico institucionales que son comprobados mediante los ejercicios de la gestión.
+
+2.
+
+Tecnología e innovación: promueve el uso intensivo de nuevas tecnologías para el abordaje de
+sus funciones y la mejora de la gestión institucional.
+
+3.
+
+Información estadística confiable: reúne registros de datos sobre la estadística y de los mapas
+de ocurrencia de hechos delictivos, a los efectos de desarrollar informes eficaces y oportunos
+sobre la materia en la Ciudad de Buenos Aires.
+
+4.
+
+Coordinación: articula su esfuerzo operacional con el resto de los componentes que intervienen
+en el sistema integral de seguridad pública.
+
+TÍTULO III
+LOS SISTEMAS DE VIDEO VIGILANCIA INSTALADOS POR EL PODER EJECUTIVO
+
+CAPÍTULO I
+INSTALACIÓN Y USO DE LOS SISTEMAS DE VIDEO VIGILANCIA
+
+Artículo 489.- La instalación de sistemas de video vigilancia por parte del Poder Ejecutivo procede
+en la medida en que resulte de utilidad concreta a fin de proporcionar información necesaria para
+adoptar eventuales medidas de gobierno relacionadas con la utilización del espacio público.
+Los criterios de establecimiento de sistemas de video vigilancia, deberán tener en cuenta una
+distribución territorial equitativa en función de las situaciones cuyo objetivo se busca atender y
+contemplarse al Mapa del Delito como herramienta para su instalación.
+
+Artículo 490.- El Poder Ejecutivo no puede utilizar los sistemas de video vigilancia para tomar
+imágenes del interior de propiedades privadas, salvo por autorización judicial expresa. Pueden
+
+instalarse sistemas de video vigilancia en espacios públicos de acuerdo a los principios establecidos
+en el presente Libro, salvo cuando se afecte de forma directa y grave la intimidad de las personas.
+En ningún caso los sistemas de video vigilancia pueden captar sonidos, excepto en el caso de que
+sea accionado el dispositivo de emergencia, y al solo efecto de establecer la comunicación con el
+solicitante. La captación de sonidos se debe desactivar automáticamente a los tres (3) minutos de
+pulsado el dispositivo y únicamente puede reactivarse mediante una nueva pulsación del dispositivo
+de emergencia. El sistema debe impedir su activación por parte del operador del centro de monitoreo.
+Si en forma accidental se obtuviesen imágenes cuya captación resulte violatoria del presente Libro,
+deben ser destruidas inmediatamente por quien tenga la responsabilidad de su custodia.
+
+Artículo 491.- Las referencias a sistemas de video vigilancia, se entienden hechas a cualquier medio
+técnico análogo y, en general, a cualquier sistema que permita las grabaciones previstas en este
+Libro, como así también al Sistema de Reconocimiento Facial de Prófugos, al Sistema Preventivo y
+al Sistema Forense.
+El Sistema de Reconocimiento Facial de Prófugos tiene como objetivo la identificación y el
+reconocimiento de personas prófugas de la justicia basado en el análisis en tiempo real de imágenes
+de video.
+El Sistema Preventivo tiene como objetivo la identificación de patrones predefinidos sobre imágenes
+de video en vivo, mediante la aplicación de métodos analíticos, orientados a prevenir acciones
+relacionadas con un posible hecho delictivo.
+El Sistema Forense tiene como objetivo la realización de búsquedas de patrones predefinidos
+mediante la utilización de imágenes de video almacenadas por los dispositivos de captura del sistema
+de video vigilancia urbana.
+
+Artículo 492.- El Sistema de Reconocimiento Facial de Prófugos será empleado únicamente para
+tareas requeridas por el Poder Judicial de la Nación, Provincial y de la Ciudad Autónoma de Buenos
+Aires, como así también para detección de personas buscadas exclusivamente por orden judicial,
+registradas en la Base de Datos de Consulta Nacional de Rebeldías y Capturas (CONARC). Salvo
+orden judicial, se encuentra prohibido incorporar imágenes, datos biométricos y/o registros de
+personas que no se encuentren registradas en el CONARC.
+
+CAPÍTULO II
+LAS IMÁGENES
+
+Artículo 493.- La captación y almacenamiento de imágenes en los términos previstos en este Libro,
+así como las actividades preparatorias, no se consideran intromisiones ilegítimas en el derecho a la
+
+intimidad personal y familiar y a la propia imagen, siempre y cuando no contradigan lo establecido
+en la Constitución Nacional, la Constitución de la Ciudad Autónoma de Buenos Aires, la Ley Nacional
+N° 25.326 # y la Ley 1845 #.
+
+Artículo 494.- La obtención de imágenes no tiene por objetivo la formulación de denuncias judiciales
+por parte de la autoridad de aplicación. En caso de detectarse la ocurrencia flagrante de un hecho
+delictivo o contravencional la autoridad de aplicación arbitra los medios necesarios para dar
+inmediato aviso a la fuerza de seguridad correspondiente y pone la cinta o soporte original de las
+imágenes en su integridad a disposición judicial con la mayor celeridad posible.
+Si la grabación captara hechos que pudieran ser constitutivos de infracciones administrativas se
+remiten al órgano competente, de inmediato, para el inicio del procedimiento sancionatorio.
+
+Artículo 495.- El acceso a toda información obtenida como consecuencia de las grabaciones se
+restringe a aquellos funcionarios que el Poder Ejecutivo individualmente determine, por razón de su
+función específica. Se prohíbe la cesión o copia de las imágenes, así como su modificación para
+entregarlas, facilitarlas o poner a disposición de medios de difusión audiovisual y/o gráficos, salvo en
+los supuestos previstos en el presente Libro o en aquellos que se dispongan por vía reglamentaria o
+en el propio interés del titular.
+Cualquier persona que por razón del ejercicio de sus funciones tenga acceso a las grabaciones debe
+observar la debida reserva, confidencialidad y sigilo resultando de aplicación, en caso contrario, lo
+dispuesto en la legislación penal. Cuando no correspondan responsabilidades penales, las
+infracciones a lo dispuesto en el presente Libro son sancionadas con arreglo al régimen disciplinario
+correspondiente a los infractores y, en su defecto, con sujeción al régimen de sanciones en materia
+de protección de datos de carácter personal.
+
+Artículo 496.- Las grabaciones son destruidas una vez transcurridos sesenta (60) días corridos
+desde su captación. No serán destruidas las que estén relacionadas con infracciones penales o
+administrativas en materia de seguridad pública, con una investigación policial en curso o con un
+procedimiento judicial o administrativo abierto.
+En todos los casos debe especificarse la autoridad a cargo del respectivo procedimiento
+
+TÍTULO IV
+LOS SISTEMAS DE VIDEO VIGILANCIA INSTALADOS EN ESPACIOS PRIVADOS DE ACCESO
+PÚBLICO Y EN ESTABLECIMIENTOS PRIVADOS QUE CAPTEN IMÁGENES DEL ESPACIO
+PÚBLICO
+
+Artículo 497.- Los establecimientos privados que cuenten con sistemas de video vigilancia en los
+espacios de acceso público están obligados a guardar las imágenes que registren por el término
+mínimo de treinta (30) días, las que podrán ser requeridas por autoridad judicial en caso de existir
+una investigación de un hecho ilícito en curso.
+
+Artículo 498.- Las cámaras de video vigilancia instaladas en establecimientos privados que capten
+imágenes del espacio público, las destinadas a la toma de imágenes de bienes muebles o inmuebles
+afectados a concesiones de obra o de servicios públicos y las instaladas en dependencias del Poder
+Ejecutivo y que capten imágenes del espacio público o de espacios de acceso público, conforman el
+Sistema Público Integral de Video Vigilancia de la Ciudad de Buenos Aires y se sujetan a las
+prescripciones de este Libro.
+La autoridad de aplicación puede acceder, en las condiciones establecidas en este Libro, a las
+imágenes capturadas por las cámaras que integran el Sistema Público Integral de Video Vigilancia
+de la Ciudad de Buenos Aires.
+
+Artículo 499.- Los titulares de los establecimientos privados o quienes los posean por cualquier título
+que instalen las cámaras a las que se refiere el primer párrafo del artículo 498 tienen las siguientes
+obligaciones:
+1.
+
+Registrar las cámaras instaladas que tomen imágenes del espacio público en un registro
+creado al efecto por la autoridad de aplicación.
+
+2.
+
+Respetar las especificaciones técnicas relativas al tipo de cámara y tecnología a instalar que
+establezca en forma general la autoridad de aplicación. La norma técnica debe facilitar la
+integración de las cámaras al Sistema Público Integral de Video Vigilancia de la Ciudad de
+Buenos Aires, sin imponer restricciones innecesarias ni favorecer indebidamente a
+proveedores determinados.
+
+3.
+
+Cuando la autoridad de aplicación lo solicite, proveer conectividad entre los dispositivos de
+video vigilancia instalados y el Centro de Monitoreo del Sistema Público Integral de Video
+Vigilancia de la Ciudad de Buenos Aires o el que aquélla determine, conforme las
+especificaciones técnicas que en forma general se establezcan.
+
+Artículo 500.- El incumplimiento de las obligaciones dispuestas en el artículo 499 configura la falta
+tipificada en el artículo 11.1.17 de la Ley 451 #.
+
+TÍTULO V
+AUTORIDAD DE APLICACIÓN
+
+Artículo 501.- El Ministerio de Justicia y Seguridad es la autoridad de aplicación del Sistema Público
+Integral de Video Vigilancia de la Ciudad Autónoma de Buenos Aires y tiene a su cargo la custodia
+de las imágenes obtenidas y la responsabilidad sobre su ulterior destino, incluida su inutilización o
+destrucción.
+
+Artículo 502.- La autoridad de aplicación crea un Registro en el que figuren todos los sistemas de
+video vigilancia comprendidos en el artículo 491, especificando su estado operativo y otros datos que
+puedan resultar de interés. Asimismo, la autoridad de aplicación deberá remitir una vez por año como
+mínimo, a la Comisión Especial de Seguimiento de los Sistemas de Video Vigilancia y a la Defensoría
+del Pueblo, la siguiente información:
+1)
+
+Información referente a las especificaciones técnicas del software del Sistema de
+Reconocimiento Facial de Prófugos utilizado.
+
+2)
+
+Las modificaciones técnicas que pudiera haber en las características de los dispositivos.
+
+3)
+
+El criterio de instalación y/o continuidad de los sistemas de video vigilancia, de acuerdo a los
+arts. 487 y 489 del presente cuerpo legal.
+
+Artículo 503.- Créase en el ámbito de la Legislatura de la Ciudad Autónoma de Buenos Aires la
+Comisión Especial de Seguimiento de los Sistemas de Video Vigilancia, integrada por los/as
+Presidentes de las Comisiones de Justicia y de Seguridad, y tres diputados/as designados por la
+Vicepresidencia Primera del cuerpo. Sin perjuicio de lo señalado en el artículo 502, esta Comisión
+podrá convocar a especialistas y organizaciones de la sociedad civil para analizar y proponer sobre
+los aspectos que son de su incumbencia.
+
+Artículo 504.- Los propietarios de los bienes afectados por las instalaciones reguladas en este Libro,
+o quienes los posean por cualquier título, están obligados a facilitar y permitir su colocación y
+mantenimiento, sin perjuicio de la necesidad de obtener, de parte de la autoridad de aplicación, en
+su caso, la autorización judicial correspondiente, y de las indemnizaciones que procedan según las
+leyes vigentes.
+
+LIBRO VIII
+EL CUERPO DE AGENTES DE CONTROL DE TRÁNSITO Y TRANSPORTE
+
+TÍTULO I
+DISPOSICIONES GENERALES
+
+

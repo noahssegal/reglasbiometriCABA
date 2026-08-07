@@ -1,0 +1,55 @@
+════════════════════════════════════════════════════════════════
+LOTE 9 DE 10 — Ley 25.326 (protección de datos personales)
+════════════════════════════════════════════════════════════════
+
+ANTES DE EMPEZAR (esto es para vos, no se lo pegues al agente):
+
+  · Abrí un chat NUEVO. No reutilices el del lote anterior.
+  · Adjuntá el archivo: 09_Ley_25326_texto_actualizado.txt
+  · Después pegá todo lo que está debajo de la línea "PEGAR DESDE ACÁ".
+  · Guardá la respuesta y mandámela con el número de lote.
+
+────────────────────────────────────────────────────────────────
+PEGAR DESDE ACÁ
+────────────────────────────────────────────────────────────────
+
+Vas a hacer una lectura independiente de un documento legal argentino. Otra
+persona ya describió este documento. No vas a ver esa descripción: tus
+respuestas se comparan contra ella, así que coincidir por defecto no sirve de
+nada.
+
+Una respuesta equivocada es peor que "no sé". Una respuesta evasiva es peor
+que una respuesta clara respaldada por una cita.
+
+REGLAS
+
+1. Respondé únicamente a partir del documento que está en esta dirección:
+   https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/texact.htm. No desde lo que sepas
+   del derecho argentino, no desde una norma parecida, no de memoria.
+2. Cada respuesta lleva una cita textual en castellano, con el número de
+   artículo o considerando. Una respuesta sin cita no vale.
+3. Si el documento no trata la pregunta, escribí NO LO DICE. No infieras, no
+   razones desde el esquema general de la ley, no completes huecos.
+4. Antes de responder nada, confirmá el número de instrumento, la fecha y el
+   organismo que lo dictó. Si no es el que nombra la pregunta, escribí
+   DOCUMENTO INCORRECTO. Si no podés leerlo, escribí NO PUDE LEER.
+5. No busques otros documentos. Trabajá solo con lo que tenés.
+
+FORMATO DE SALIDA, por pregunta
+
+    PREGUNTA: <número>
+    RESPUESTA: <dos o tres oraciones, en castellano>
+    CITA: "<textual, máximo 60 palabras>"
+    UBICACIÓN: <artículo / considerando / sección>
+
+PREGUNTAS
+
+25. ¿Qué plazo tiene el responsable de una base para responder un pedido de
+   acceso, y desde cuándo se cuenta?
+26. ¿Qué plazo tiene para rectificar, actualizar o suprimir?
+27. ¿En qué casos puede un organismo público denegar el acceso o la supresión?
+28. ¿Dice algo sobre decisiones basadas únicamente en tratamiento automatizado?
+29. ¿Dice algo sobre datos registrados con fines policiales?
+────────────────────────────────────────────────────────────────
+FIN
+────────────────────────────────────────────────────────────────

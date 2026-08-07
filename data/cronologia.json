@@ -1,0 +1,231 @@
+[
+ {
+  "anio": "2000",
+  "der": [
+   {
+    "nombre": "Ley 25.326",
+    "slug": "nac-ley-25326",
+    "jur": "nacional"
+   }
+  ]
+ },
+ {
+  "anio": "2011",
+  "der": [
+   {
+    "nombre": "SIBIOS: Decreto 1766/2011 (creación)",
+    "slug": "nac-sibios",
+    "jur": "nacional"
+   }
+  ]
+ },
+ {
+  "anio": "2016",
+  "izq": [
+   {
+    "nombre": "Ley 5688, Libro VII (videovigilancia)",
+    "slug": "caba-ley-5688",
+    "hilo": true
+   }
+  ],
+  "der": [
+   {
+    "nombre": "Ley 27.275",
+    "slug": "nac-ley-27275",
+    "jur": "nacional"
+   }
+  ]
+ },
+ {
+  "anio": "2017",
+  "der": [
+   {
+    "nombre": "SIBIOS: Decreto 243/2017 (amplía el acceso)",
+    "slug": "nac-sibios",
+    "jur": "nacional"
+   }
+  ]
+ },
+ {
+  "anio": "2018",
+  "der": [
+   {
+    "nombre": "Disposición RENAPER 4133/2018",
+    "slug": "nac-renaper",
+    "jur": "nacional"
+   },
+   {
+    "nombre": "Ley 27.483 (Convenio 108)",
+    "slug": "nac-convenios-108",
+    "jur": "tratado"
+   }
+  ]
+ },
+ {
+  "anio": "2019",
+  "izq": [
+   {
+    "nombre": "Convenio RENAPER–Ciudad",
+    "slug": "caba-caso-srfp",
+    "hilo": true
+   },
+   {
+    "nombre": "Res. 398/MJYSGC/19 (crea el sistema)",
+    "slug": "caba-caso-srfp",
+    "hilo": true
+   }
+  ]
+ },
+ {
+  "anio": "2020",
+  "izq": [
+   {
+    "nombre": "Ley 6339 (incorpora el reconocimiento facial)",
+    "slug": "caba-ley-5688",
+    "hilo": true
+   },
+   {
+    "nombre": "Res. 141/SSGA/20 (suspende el contrato de video)",
+    "slug": "caba-caso-srfp",
+    "hilo": true
+   }
+  ],
+  "der": [
+   {
+    "nombre": "RG AFIP 4699/2020",
+    "slug": "nac-afip",
+    "jur": "nacional"
+   }
+  ]
+ },
+ {
+  "anio": "2022",
+  "izq": [
+   {
+    "nombre": "Sentencia de primera instancia",
+    "slug": "caba-caso-srfp",
+    "hilo": true
+   }
+  ],
+  "der": [
+   {
+    "nombre": "RG AFIP 5266/2022",
+    "slug": "nac-afip",
+    "jur": "nacional"
+   },
+   {
+    "nombre": "Ley 27.699 (Convenio 108+)",
+    "slug": "nac-convenios-108",
+    "jur": "tratado"
+   }
+  ]
+ },
+ {
+  "anio": "2023",
+  "izq": [
+   {
+    "nombre": "Sentencia de Cámara",
+    "slug": "caba-caso-srfp",
+    "hilo": true
+   },
+   {
+    "nombre": "Resolución PIA 228/22 (denuncia penal)",
+    "slug": "caba-caso-srfp",
+    "hilo": true
+   }
+  ],
+  "der": [
+   {
+    "nombre": "Disposición RENAPER 1255/2023",
+    "slug": "nac-renaper",
+    "jur": "nacional"
+   },
+   {
+    "nombre": "Decreto Reglamentario 98/2023",
+    "slug": "nac-dto-98-2023",
+    "jur": "nacional"
+   }
+  ]
+ },
+ {
+  "anio": "2024",
+  "izq": [
+   {
+    "nombre": "Res. 351-MSEGC/24",
+    "slug": "caba-res-351-2024",
+    "hilo": true
+   }
+  ],
+  "der": [
+   {
+    "nombre": "Res. MS 710/2024",
+    "slug": "nac-uiaas-710-2024",
+    "jur": "nacional"
+   },
+   {
+    "nombre": "Res. MS 1234/2024",
+    "slug": "nac-res-ms-1234",
+    "jur": "nacional"
+   }
+  ]
+ },
+ {
+  "anio": "2025",
+  "izq": [
+   {
+    "nombre": "Contratación Clearview AI",
+    "slug": "caba-clearview",
+    "hilo": true
+   }
+  ],
+  "der": [
+   {
+    "nombre": "DNU 941/2025",
+    "slug": "nac-dnu-941",
+    "jur": "nacional"
+   },
+   {
+    "nombre": "Res. MS 866/2025",
+    "slug": "nac-res-ms-866",
+    "jur": "nacional"
+   },
+   {
+    "nombre": "Res. PBA 9/2025",
+    "slug": "pba-res-9-2025",
+    "jur": "provincia"
+   }
+  ]
+ },
+ {
+  "anio": "2026",
+  "izq": [
+   {
+    "nombre": "Renovación Clearview AI",
+    "slug": "caba-clearview",
+    "hilo": true
+   }
+  ],
+  "der": [
+   {
+    "nombre": "Acuerdo comercial con EE.UU.",
+    "slug": "nac-aicr",
+    "jur": "tratado"
+   },
+   {
+    "nombre": "CSJN «Torres Abad»",
+    "slug": "nac-torres-abad",
+    "jur": "nacional"
+   },
+   {
+    "nombre": "«Gemelo Digital Social»",
+    "slug": "nac-gemelo-digital",
+    "jur": "nacional"
+   },
+   {
+    "nombre": "Proyectos sobre reconocimiento facial",
+    "slug": "nac-proyectos-facial",
+    "jur": "proyecto"
+   }
+  ]
+ }
+]

@@ -1,0 +1,45 @@
+════════════════════════════════════════════════════════════════
+VERIFICACIÓN INDEPENDIENTE — 10 lotes
+════════════════════════════════════════════════════════════════
+
+En esta carpeta hay diez archivos numerados (lote_01 a lote_10) y los
+documentos fuente que hay que adjuntar en cada uno.
+
+CÓMO SE USA
+
+  Para cada lote, del 1 al 10:
+
+    1. Abrí un chat NUEVO con el otro agente.
+    2. Abrí lote_0X.txt. Arriba dice qué archivo adjuntar
+       (o qué dirección web pasarle, en los lotes 9 y 10).
+    3. Adjuntá ese archivo.
+    4. Copiá y pegá todo lo que está debajo de "PEGAR DESDE ACÁ".
+    5. Guardá la respuesta y mandámela diciendo de qué lote es.
+
+POR QUÉ UN CHAT NUEVO CADA VEZ
+
+  Estos documentos se citan entre sí. Si el agente leyó todos en el mismo
+  chat, empieza a responder desde el conjunto y no desde el documento que
+  tiene adelante, que es justo lo que las reglas le piden no hacer. Y no vas
+  a poder distinguir una cosa de la otra mirando la respuesta.
+
+  Si diez chats es demasiado, los que sí o sí conviene separar son el 1, el
+  2, el 3, el 4 y el 5: son los que se referencian entre ellos. El 9 y el 10
+  pueden ir juntos sin mucho riesgo.
+
+QUÉ HAGO YO CON LAS RESPUESTAS
+
+  Las comparo contra el sitio y te aviso solamente lo que no coincide. No
+  tenés que leer las coincidencias.
+
+  Hay un caso que conviene que mires vos: si una respuesta viene sin cita, o
+  con una cita que no aparece en el archivo adjunto, hay que descartarla
+  entera. Significa que el agente contestó de memoria y no del documento.
+
+ORDEN SUGERIDO
+
+  1 → 2 → 3 → 4 → 5 → 6 → 7 → 8 → 9 → 10
+
+  Si querés empezar por lo que más importa: 3, 4 y 5 son el hilo del
+  reconocimiento facial porteño, y 9 es la ley de la que salen los plazos de
+  la página "Qué se puede hacer".

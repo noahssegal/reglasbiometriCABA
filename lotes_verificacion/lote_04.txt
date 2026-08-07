@@ -1,0 +1,51 @@
+════════════════════════════════════════════════════════════════
+LOTE 4 DE 10 — Resolución 351-MSEGC/24 (CABA)
+════════════════════════════════════════════════════════════════
+
+ANTES DE EMPEZAR (esto es para vos, no se lo pegues al agente):
+
+  · Abrí un chat NUEVO. No reutilices el del lote anterior.
+  · Adjuntá el archivo: 04_Res_351-MSEGC-24.md
+  · Después pegá todo lo que está debajo de la línea "PEGAR DESDE ACÁ".
+  · Guardá la respuesta y mandámela con el número de lote.
+
+────────────────────────────────────────────────────────────────
+PEGAR DESDE ACÁ
+────────────────────────────────────────────────────────────────
+
+Vas a hacer una lectura independiente de un documento legal argentino. Otra
+persona ya describió este documento. No vas a ver esa descripción: tus
+respuestas se comparan contra ella, así que coincidir por defecto no sirve de
+nada.
+
+Una respuesta equivocada es peor que "no sé". Una respuesta evasiva es peor
+que una respuesta clara respaldada por una cita.
+
+REGLAS
+
+1. Respondé únicamente a partir del documento adjunto. No desde lo que sepas
+   del derecho argentino, no desde una norma parecida, no de memoria.
+2. Cada respuesta lleva una cita textual en castellano, con el número de
+   artículo o considerando. Una respuesta sin cita no vale.
+3. Si el documento no trata la pregunta, escribí NO LO DICE. No infieras, no
+   razones desde el esquema general de la ley, no completes huecos.
+4. Antes de responder nada, confirmá el número de instrumento, la fecha y el
+   organismo que lo dictó. Si no es el que nombra la pregunta, escribí
+   DOCUMENTO INCORRECTO. Si no podés leerlo, escribí NO PUDE LEER.
+5. No busques otros documentos. Trabajá solo con lo que tenés.
+
+FORMATO DE SALIDA, por pregunta
+
+    PREGUNTA: <número>
+    RESPUESTA: <dos o tres oraciones, en castellano>
+    CITA: "<textual, máximo 60 palabras>"
+    UBICACIÓN: <artículo / considerando / sección>
+
+PREGUNTAS
+
+11. ¿Qué crea el artículo 1 y qué aprueba el artículo 2?
+12. ¿El acto menciona algún expediente judicial, sentencia o medida cautelar?
+13. ¿En qué sistemas informáticos se apoya el registro que crea?
+────────────────────────────────────────────────────────────────
+FIN
+────────────────────────────────────────────────────────────────

@@ -1,0 +1,451 @@
+                      GOBIERNO DE LA PROVINCIA DE BUENOS AIRES
+      2025-Centenario de la Refinería YPF La Plata: Emblema de la Soberanía Energética Argentina
+
+                                               Resolución
+
+Número: RESO-2025-9-GDEBA-SSGDMGGP
+
+                                                                            LA PLATA, BUENOS AIRES
+                                                                         Viernes 14 de Noviembre de 2025
+
+Referencia: “Reglas para el desarrollo, implementación y uso responsable de sistemas de Inteligencia
+Artificial para la Administración Pública de la Provincia de Buenos Aires”
+
+
+VISTO el EX-2025-37845172-GDEBA-DSTAMGGP por el cual se tramita la aprobación de las
+“Reglas para el desarrollo, implementación y uso responsable de sistemas de Inteligencia Artificial
+para la Administración Pública de la Provincia de Buenos Aires”, la Ley N° 14.828, la Ley N°
+15.477, el Decreto N° 1018/2016, el Decreto N° 3/2024, el Decreto N° 965/2025, la Resolución N°
+4/2025 y
+
+
+
+CONSIDERANDO:
+
+Que, por lo establecido en los artículos 8 y 9 de la Ley N° 15.477, es potestad del Gobernador, el
+diseño y aprobación de las estructuras organizativas y funciones específicas de cada Ministerio de
+la Provincia de Buenos Aires.
+
+Que, en atención al interés de lo mencionado en el párrafo precedente, el Poder Ejecutivo dictó el
+Decreto N° 3/2024 disponiendo la estructura orgánico funcional del Ministerio de Gobierno.
+
+Que en el Anexo II del citado Decreto, se resolvió que la Subsecretaría de Gobierno Digital tenga
+en sus manos: “implementar el Plan Estratégico de Modernización de la Administración Pública de
+la Provincia de Buenos Aires”; “Intervenir en el diseño, formulación y coordinación de las políticas
+públicas de transformación y mejora administrativa y tecnológica, en el ámbito del Gobierno
+Provincial”; “Actuar como órgano rector en materia de telecomunicaciones, digitalización,
+informática y soluciones tecnológicas en general, en el ámbito del Poder Ejecutivo Provincial, de
+acuerdo con la normativa vigente”; y “Establecer y promover el cumplimiento en la Administración
+Pública de la Provincia de Buenos Aires, centralizada y descentralizada, de los lineamientos
+técnicos y estratégicos en materia de innovación, sistemas administrativos y de información”.
+
+Que el gobernador consideró oportuno designar mediante el artículo 1 del Decreto N° 965/2025, a
+la mencionada Subsecretaría como órgano rector en materia de sistemas de información y
+tecnología.
+
+Que, en razón de sus atribuciones, el referido Organismo es competente en la materia de
+inteligencia artificial, fijando las acciones y políticas de ejecución, por medio de sus diferentes
+Direcciones Provinciales y Direcciones que le corresponden.
+
+Que, la popularización y masividad de las inteligencias artificiales, plantea la necesidad de reglas
+que clarifiquen su utilización en el ámbito público. Teniendo como premisa que la innovación
+tecnológica jamás puede ir en desmedro de los derechos fundamentales y humanos de la
+ciudadanía.
+
+Que, a nivel global, se ha visto un paulatino pero constante devenir en diferentes regulaciones con
+un enfoque basado en el riesgo, que busca equilibrar la innovación con la ética y los derechos
+individuales y colectivos.
+
+Que, como antecedentes de estándares internacionales, se observan con interés “Los Principios
+de inteligencia artificial de Asilomar” del 2017, dictados en la Conferencia sobre IA beneficiosa
+organizada por el Instituto del futuro de la vida (Future of Life Institute); la “Recomendación del
+Consejo sobre Inteligencia Artificial”, emitida en mayo de 2019 por la Organización para la
+Cooperación y el Desarrollo Económicos (OCDE); y la “Recomendación sobre la Ética de la
+Inteligencia Artificial”, adoptada en noviembre de 2021 por los Estados miembros de la
+Conferencia General de la Organización de las Naciones Unidas para la Educación, la Ciencia y la
+Cultura (UNESCO).
+
+Que, en consonancia con la trascendencia del tema, el Parlamento y el Consejo de la Unión
+Europea emitieron la “Declaración Europea sobre los Derechos y Principios Digitales para la
+Década Digital”, y el “Reglamento (UE) 2024/1689”, el cual fija las normas armonizadas en
+inteligencia artificial, obligatoria para los países miembros de la Unión.
+
+Que, en nuestro país, por el empleo de la IA, pueden llegar a verse involucrados y afectados los
+artículos 14, 17, 18, 19, 42, 43 (entre otros) de la Constitución Nacional.
+
+Que, en Argentina se dictó la Resolución N° 90/2021 que consistió en el “Programa de Inteligencia
+Artificial”, La Disposición N° 2/2023 sobre “Recomendaciones para una Inteligencia Artificial
+Fiable”, La Resolución N° 161/2023 “Programa de Transparencia y Protección de Datos
+Personales en el uso de la Inteligencia Artificial”, y las Decisiones Administrativas N° 750/2023 y N
+° 899/2024, que crean y regulan la mesa Interministerial sobre Inteligencia Artificial en manos de
+la Jefatura de Gabinete de Ministros.
+Que, en atención a sus competencias, la Subsecretaría de Gobierno Digital ordenó mediante
+Resolución N° 4/2025, la creación de las “Directrices del uso de Inteligencia Artificial Generativa
+en la Administración Pública de la Provincia de Buenos Aires”
+
+Que, en dicho considerando, se remarcó la importancia de “trazar lineamientos claros que sirvan
+de parámetros para los organismos públicos provinciales”, sobre el uso de inteligencia artificial
+generativa.
+
+Que, esta Subsecretaría advierte, que dado el contexto actual de avance ciber-tecnológico en
+inteligencia artificial, se deben seguir tomando las debidas diligencias, trazando marcos de trabajo
+para producir la sinergia suficiente, que logre usufructuar duradera y positivamente los frutos que
+representa los desafíos de la cuarta revolución industrial.
+
+Que, es por ello, esta iniciativa tiene como finalidad dictaminar las primeras reglas generales para
+el desarrollo, implementación y uso responsable de sistemas de IA, dentro de la Administración
+Pública de la Provincia de Buenos Aires, con parámetros de base ética que garanticen la
+transparencia, equidad, igualdad y seguridad de todos los bonaerenses.
+
+Que, han tomado intervención en virtud de su competencia la Asesoría General de Gobierno y la
+Fiscalía de Estado.
+
+Que, la presente medida se dicta en uso de las atribuciones conferidas por el Decreto N° 3/2024 y
+el Decreto N° 965/2025;
+
+Por ello;
+
+
+
+                        LA SUBSECRETARÍA DE GOBIERNO DIGITAL
+
+                                DEL MINISTERIO DE GOBIERNO
+
+                            DE LA PROVINCIA DE BUENOS AIRES
+
+                                           RESUELVE
+
+
+
+ARTÍCULO 1°. Aprobar las reglas para el desarrollo, implementación y uso responsable de
+sistemas de Inteligencia Artificial (IA) para la Administración Pública de la Provincia de Buenos
+Aires.
+
+ARTÍCULO 2°. Objetivo. El propósito de la presente Resolución es proteger los derechos y
+garantías fundamentales de la ciudadanía, asegurando de forma razonable y confiable la creación
+y/o aplicación de sistemas de IA.
+ARTÍCULO 3°. Definiciones. Para los efectos de esta Resolución, se adoptan una serie de
+descripciones que deben ser consideradas como orientativas y no excluyentes, siendo las
+siguientes:
+
+  I. Datos: Es toda representación simbólica de un atributo o variable cuantitativa o cualitativa,
+     que indica un valor que puede describir un hecho empírico, sucesos o entidades.
+
+
+
+  II. Datos personales: Información de cualquier tipo que se vincula a personas determinadas o
+      determinables. Se comprende por “determinable” la persona que puede ser identificada
+      directa o indirectamente por uno o varios elementos característicos de su identidad, ya sean
+      físicos, fisiológicos, genéticos, biométricos, inferidos, psíquicos, económicos, culturales,
+      sociales o de otra naturaleza.
+
+
+
+ III. Datos sensibles: Son una categoría especial y se entiende por aquellos datos que se
+      relacionan con la esfera íntima de la persona, o cuya utilización indebida pueda dar origen a
+      una discriminación arbitraria o signifiquen un riesgo grave para esta. A modo de ejemplo, se
+      consideran sensibles los datos personales que puedan exponer aspectos como origen racial
+      o étnico; creencias o convicciones religiosas, filosóficas y morales; afiliación sindical u
+      opiniones políticas; datos relativos a la salud, discapacidad, orientación sexual, identidad de
+      género, o datos genéticos o biométricos cuando puedan revelar datos adicionales, cuyo uso
+      pueda resultar potencialmente discriminatorio para la persona Titular de los datos, y que
+      estén dirigidos a identificar de manera unívoca a una persona.
+
+
+
+ IV. Datos de entrenamiento: Son el conjunto de datos usados para entrenar los sistemas de
+     inteligencia artificial.
+
+
+
+ V. Proveedor de sistema de Inteligencia Artificial: Persona humana o jurídica, que desarrolla un
+    sistema de inteligencia artificial, directamente o por encargo, con miras a comercializarlo,
+    cederlo, donarlo o aplicarlo a un servicio prestado por él.
+
+
+
+ VI. Operador de sistema de Inteligencia Artificial: Persona humana o jurídica, que utiliza un
+     sistema de inteligencia artificial.
+
+
+
+VII. Actores de Inteligencia Artificial: Son los proveedores y operadores de inteligencia artificial.
+VIII. Autoridad competente: Órgano de la Administración Pública Bonaerense encargado de
+      velar, implementar y vigilar el cumplimiento de esta Resolución.
+
+
+
+ IX. Finalidad prevista: Uso para el cual se desarrolla un sistema basado en inteligencia artificial,
+     incluyendo el contexto y las condiciones específicas de su utilización.
+
+
+
+  X. Discriminación: Cualquier distinción, exclusión, restricción o preferencia, que tenga por
+     efecto anular o limitar el goce o ejercicio, de uno o más garantías, derechos y/o libertades de
+     nuestro ordenamiento jurídico.
+
+
+
+ XI. Sesgo o prejuicio cifrado: Es aquel que sucede cuando un sistema de inteligencia artificial,
+     debido a su diseño, entrenamiento o aplicación, puede afectar un derecho o conjunto de
+     ellos con un resultado discriminatorio, agraviante, injusto y negativo.
+
+
+
+XII. Riesgo: Combinación de la probabilidad de que se genere un daño y la gravedad del mismo
+     daño.
+
+ARTÍCULO 4°. Alcance. La Resolución es de cumplimiento obligatorio para todos los organismos
+de la Administración Pública de la Provincia de Buenos Aires que desarrollen, elaboren,
+investiguen, innoven, contraten o usen cualquier sistema de inteligencia artificial.
+
+ARTÍCULO 5°. Autoridad de aplicación. Encomendar como autoridad competente a la Dirección
+Provincial de Innovación Digital, el dictado de las disposiciones operativas, aclaratorias,
+interpretativas y complementarias que resulten necesarias para la instauración de lo establecido
+en la presente Resolución. Así como también las tareas de consulta, asesoría, seguimiento,
+supervisión, verificación, evaluación, explicación, investigación de los sistemas de inteligencia
+artificial que sean desarrollados o utilizados en la Administración Pública de la Provincia de
+Buenos Aires.
+
+ARTÍCULO 6°. Principios. Todo desarrollo y uso de inteligencia artificial como pilar general, debe
+estar basado en el sólido respeto de los derechos fundamentales de la persona humana, que
+incluyen, las garantías y derechos constitucionales, la dignidad, los derechos humanos, la
+privacidad, la transparencia, la ética, la responsabilidad y la equidad.
+
+Es por lo cual, el presente texto adopta y se basa en los siguientes principios:
+ I. Neutralidad tecnológica: Esta Resolución entiende que la tecnología es evolutiva, cambiante
+    y dinámica, por lo tanto, se aplica a todo desarrollo o uso de inteligencia artificial,
+    independientemente de las definiciones, conceptos, técnicas, procesos o tecnologías
+    actuales o futuras que se utilicen en la materia.
+
+
+
+II. Razonabilidad tecnológica: En el marco del desarrollo o uso de sistemas de IA, previamente
+    debe evaluarse la necesidad de su implementación, y únicamente emplearse cuando
+    implique una mejora sustancial en los costos, la eficiencia y la eficacia con respecto a los
+    métodos o modelos de trabajo utilizados anteriormente.
+
+
+
+III. Centralidad de la persona humana: La inteligencia artificial es una herramienta cuyo destino
+     no debe ser otro que el de apoyar e impulsar el progreso y bienestar social de la ciudadanía.
+     En este sentido, cualquier IA debe tener como punto de partida a los individuos. Esto
+     significa que independientemente que la inteligencia artificial tome decisiones y ejecute
+     tareas de forma autónoma, la responsabilidad final y la supervisión y control siempre estarán
+     en cabeza de los seres humanos. Por ello, obligatoriamente se deben implementar
+     mecanismos y salvaguardas para afrontar los riesgos surgidos de usos fuera del propósito
+     previsto, intencionales o no, de una manera apta a su encuadre y respetando el
+     ordenamiento jurídico vigente.
+
+
+
+IV. Respeto a los derechos humanos y valores democráticos: Cualquier desarrollo o uso de
+    inteligencia artificial, comprendiéndose todo su ciclo de vida, debe respetar el estado de
+    derecho, los derechos humanos, la equidad, la diversidad, la igualdad de género, la no
+    discriminación, la justicia social, los derechos laborales y el respeto irrestricto hacia los
+    valores republicanos y democráticos.
+
+
+
+V. Crecimiento inclusivo: Los operadores o proveedores de los sistemas de inteligencia
+   artificial, deben tener en cuenta que existen personas en situación de riesgo por la brecha
+   digital, y que son susceptibles de sufrir perjuicios cuando se relacionan con los entornos
+   tecnológicos.
+
+     La Administración Pública debe fomentar el desarrollo de un ecosistema inclusivo y
+     dinámico, ponderando las situaciones particulares en la que pueden encontrarse diferentes
+     realidades dentro de un grupo social determinado, garantizando así que los beneficios de la
+     IA lleguen a toda la ciudadanía.
+ VI. Respeto del medioambiente: Todos los sistemas de IA en manos de la Administración
+     Pública Provincial deben ser sostenibles y sustentables, considerando su impacto
+     medioambiental y tomando todas las medidas eficaces para prevenir un potencial daño,
+     buscando a su vez, promover sus aspectos positivos en la sociedad.
+
+
+
+VII. Privacidad y protección de datos: Los sistemas de inteligencia artificial, deben respetar y
+     proteger la privacidad de la ciudadanía y el tratamiento de sus datos personales, teniendo
+     especial cuidado cuando estos sean sensibles, y de acuerdo con lo establecido por la
+     normativa y estándares aplicables en nuestro país y en la provincia de Buenos Aires.
+
+
+
+VIII. Autodeterminación informativa: Es un derecho personalísimo, autónomo y dinámico que
+      poseen todos los ciudadanos de administrar sus datos, e implica, por un lado, tomar
+      conocimiento de los mismos, y por el otro, la facultad de controlarlos. La inteligencia artificial
+      elegida debe salvaguardar este derecho, garantizando que los titulares de los datos
+      personales siempre estén informados, de manera comprensible, adecuada y precisa.
+
+
+
+ IX. Transparencia: Es una condición previa fundamental para la promoción y el respeto de los
+     derechos humanos. Es por ello que los sistemas de IA utilizados o desarrollados por los
+     organismos estatales deben garantizar su visibilidad, y que se desempeñan con un nivel de
+     transparencia apto para que los operadores, responsables, encargados y usuarios,
+     interpreten, entiendan y usen correctamente los resultados derivados de un mecanismo de
+     decisión automática.
+
+       Dada la incomprensión en la arquitectura y diseño de algunos sistemas de IA llamados
+       “opacos” o de “caja negra”, es recomendable que al utilizarlos se resguarden los derechos
+       de la ciudadanía.
+
+
+
+  X. Trazabilidad y/o auditabilidad: El uso o desarrollo de sistemas de inteligencia artificial deben
+     contar con procedimientos y registros idóneos de todas sus etapas, para poder reconocer y
+     permitir que el algoritmo utilizado sea rastreable e identificable, permitiendo así que la
+     misma sea sometida a la evaluación de sus datos y procesos de diseño, posibilitando
+     verificar su funcionamiento.
+
+
+
+ XI. Responsabilidad demostrada y rendición de cuentas: Los desarrolladores, proveedores,
+     operadores y usuarios de sistemas de inteligencia artificial, deben tomar medidas técnicas y
+     organizativas apropiadas, razonablemente documentadas, demostrando el trabajo
+     permanente y continuo de que el sistema empleado sea ético y respetuoso de los derechos
+     humanos, los involucrados son responsables de las consecuencias de sus acciones y
+     decisiones relacionadas con el uso de tales tecnologías, garantizando y asegurando que
+     sean confiables, seguros y transparentes y verificando que se cumpla con el orden normativo
+     vigente.
+
+
+
+XII. Seguridad: Los sistemas de inteligencia artificial tendrán que ser diseñados, desarrollados,
+     implementados y/o utilizados con medidas de carácter administrativo, físico y técnico
+     suficientes, que aseguren su robustez y confiabilidad a lo largo de su vida útil. Estas
+     acciones deberán ser adecuadas para prevenir el acceso no autorizado, la manipulación, la
+     intervención mal intencionada, o cualquier otra vulneración que signifique un menoscabo o
+     riesgo a los derechos de las personas o al Estado Provincial.
+
+      Asimismo, los responsables pondrán en funcionamiento una serie de operaciones que
+      respalden la mejora continua y progresiva, de las medidas de seguridad aplicables al
+      sistema de IA elegido.
+
+
+
+XIII. Fomento de la innovación y promoción de la investigación tecnológica: Los organismos de la
+      Administración Pública de la Provincia de Buenos Aires que tengan relación con la materia,
+      promocionarán e incentivarán la innovación e investigación tecnológica en inteligencia
+      artificial, siempre que esta sea responsable, en equilibrio con los derechos fundamentales de
+      la ciudadanía.
+
+
+
+XIV. Capacitación pública permanente: Con el fin de asegurar un correcto, legal y eficiente uso de
+     las IA, aquellos organismos que evalúen o estén utilizando o desarrollando inteligencia
+     artificial, deben alfabetizarse, concientizarse, sensibilizarse y capacitarse permanentemente,
+     en función de la evolución del estado del arte de dicha tecnología.
+
+ARTÍCULO 7°. Evaluación preliminar de riesgos. Previo a su desarrollo o uso, los actores
+encargados de los sistemas de inteligencia artificial, deberán someterla a una evaluación
+preliminar para clasificar su nivel de riesgo, documentando todo el proceso.
+
+ARTÍCULO 8°. Clasificación de riesgos.
+
+     Riesgo inaceptable. Son todos los sistemas de IA que se consideran por su gravedad o
+     impacto, una clara amenaza o peligro para la seguridad, la salud, el medioambiente, el
+     orden constitucional-democrático, los medios de vida o los derechos fundamentales de las
+     personas. Estos sistemas, por ninguna circunstancia, pueden desarrollarse ni usarse.
+
+      Son riesgos inaceptables, entre otros: los sistemas de IA que empleen técnicas
+      subliminales cuyo efecto sea inducir a una persona humana a comportarse de forma
+      perjudicial para su seguridad o salud o la de terceros; aquellos sistemas de inteligencia
+      artificial que exploten vulnerabilidades de grupos específicos asociados a la edad,
+      discapacidad, genero, sexo, contexto económico o situación social, para instigar a
+      comportarse de manera perjudicial tanto para si como para con terceros; los sistemas de
+      IA que elaboren perfiles de personas según su comportamiento, creando una especie de
+      “clasificación” y/o “scoring” social.
+
+
+
+     Alto riesgo. Los sistemas de inteligencia artificial identificados como de alto riesgo, son
+     aquellos que significan una afectación elevadamente probable en la seguridad o los
+     derechos fundamentales de las personas. Estos riesgos requieren medidas obligatorias de
+     mitigación apropiadas.
+
+      Son sistemas de IA de alto riesgo, entre otros: los sistemas de identificación biométrica;
+      gestión de infraestructuras criticas; educación y formación profesional; administración de
+      justicia; procesos de participación democrática; y gestión de las relaciones laborales.
+
+
+
+     Riesgo limitado. Son los sistemas de inteligencia artificial que tienen un impacto mínimo en
+     la seguridad y/o en los derechos fundamentales de las personas.
+
+      Un ejemplo de sistema de IA de riesgo limitado, son los chatbots genéricos, siempre y
+      cuando sean visibles en su interacción para sus usuarios y no traten datos sensibles.
+
+
+
+     Riesgo nulo. Son los sistemas de IA que se configuran en un impacto insignificante en la
+     seguridad de las personas o sus derechos fundamentales.
+
+      Ejemplo de sistema de inteligencia artificial de riesgo nulo, son los sistemas de filtros de
+      spam y de parametrización de correos electrónicos.
+
+ARTÍCULO 9°. Evaluación de impacto algorítmica. Aquellas IA catalogadas como de alto riesgo,
+deben realizar obligatoriamente un escrutinio sobre sus alcances y características, permitiendo
+identificar los riesgos legales, éticos, sociales y técnicos, como así también los posibles y
+potenciales daños que puedan producir.
+
+ARTÍCULO 10°. Gestión de riesgos. Los actores intervinientes o encargados de sistemas de
+inteligencia artificial están obligados a implementar y tomar medidas adecuadas y eficaces para
+mitigar los riesgos identificados. Este proceso se debe realizar durante todo el ciclo de vida de la
+IA, con revisiones periódicas acordes al riesgo que se quiere mitigar.
+
+ARTÍCULO 11°. Gobernanza de los sistemas de inteligencia artificial. Los sistemas de inteligencia
+artificial que utilicen técnicas que impliquen el entrenamiento con datos, validación o prueba,
+requerirán de una gobernanza de datos interdisciplinaria y multimodal, estableciendo prácticas
+apropiadas acordes a los criterios de calidad, a su clasificación de riesgo y a la finalidad prevista
+que tenga ese sistema de IA.
+
+ARTÍCULO 12°. Datos de entrenamiento. Los organismos de la Administración Pública
+Bonaerense, deberán poseer estándares acordes al nivel de riesgo y la normativa vigente, cuando
+recopilen, usen, traten, manipulen, compartan, archiven y supriman datos, en el contexto de
+entrenamiento de un sistema de inteligencia artificial y durante todo su ciclo de vida. Tales datos
+se conservarán el tiempo suficiente y conveniente para permitir su auditabilidad.
+
+En el supuesto que fuera necesario, los organismos respectivos tendrán que tener los permisos
+correspondientes, para poder utilizar determinados datos que se encuentren bajo marcos
+particulares de protección o regulación legal.
+
+En el caso de los datos personales, salvo por las excepciones y causales previstas en la Ley
+Nacional N° 25.326, o la que en el futuro la reemplace, solo podrán usarlos si cuentan con el
+consentimiento libre, expreso, previo, inequívoco, especifico e informado de sus titulares.
+
+ARTÍCULO 13°. Sesgo o prejuicio cifrado. Los actores y responsables de la inteligencia artificial,
+durante todo el ciclo de vida del sistema, deberán tener especial cuidado, de evitar o mitigar la
+aparición de sesgos que signifiquen una afectación, perjuicio, discriminación, estereotipo injusto o
+perjudicial de la ciudadanía.
+
+ARTÍCULO 14°. Advertencia de IA. De acuerdo con los principios de autodeterminación
+informativa y transparencia, los organismos que utilicen sistemas de inteligencia artificial para
+comunicarse y/o relacionarse directamente con la ciudadanía, tienen la obligación de advertirles
+cuando estos estén interactuando con una IA. Dicho aviso, además de expreso y claro, debe ser
+previo a la interacción.
+
+ARTÍCULO 15°. Creación del Registro de Inteligencia Artificial. Los organismos de la
+Administración Pública de la Provincia de Buenos Aires, que usen o desarrollen sistemas de
+inteligencia artificial, se encuentran obligados a registrarlas en la forma y modo, que la
+Subsecretaría de Gobierno Digital oportunamente dispondrá para tal fin.
+
+ARTÍCULO 16°. Registrar, notificar, comunicar, publicar, dar al Boletín Oficial y al SINDMA.
+Cumplido, archivar.
+Digitally signed by D'AGOSTINO Sandra Noemi
+Date: 2025.11.14 16:05:21 ART
+Location: Provincia de Buenos Aires
+
+Sandra Noemi Dagostino
+Subsecretaria
+Subsecretaría de Gobierno Digital
+Ministerio de Gobierno
+
+
+
+
+                                              Digitally signed by GDE BUENOS AIRES
+                                              DN: cn=GDE BUENOS AIRES, c=AR, o=MINISTERIO DE
+                                              GOBIERNO BS.AS., ou=SUBSECRETARIA DE
+                                              GOBIERNO DIGITAL, serialNumber=CUIT 30715124234
+                                              Date: 2025.11.14 16:05:32 -03'00'
+

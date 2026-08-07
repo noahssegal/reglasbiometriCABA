@@ -1,0 +1,50 @@
+[
+ {
+  "etiqueta_es": "Estado de esta versión",
+  "etiqueta_en": "Status of this version",
+  "texto_es": "El corpus no completó todavía su revisión final. Nueve de las veinte fichas pasaron por una lectura independiente contra el documento original; las once restantes se apoyan por ahora en una sola lectura. Ocho fichas citan documentos cuyo enlace oficial no está resuelto. Conviene tratar cada afirmación como sujeta a revisión y cotejarla contra la fuente que cita.",
+  "texto_en": "The corpus has not yet completed its final review. Nine of the twenty entries have been through an independent reading against the original document; the remaining eleven rest for now on a single reading. Eight entries cite documents whose official link is unresolved. Each statement should be treated as subject to revision and checked against the source it cites."
+ },
+ {
+  "etiqueta_es": "Qué reúne",
+  "etiqueta_en": "What this collects",
+  "texto_es": "Actos sobre el reconocimiento facial, la identificación biométrica y la videovigilancia en Argentina, junto al litigio que se les opuso y a las normas nacionales de protección de datos y de seguridad que los rodean. Varias fichas reúnen más de un instrumento: el caso porteño abarca la resolución que creó el sistema, el convenio que lo alimentó, dos sentencias y una investigación; la ficha de SIBIOS abarca dos decretos. Cada ficha describe qué hace la norma, con qué se relaciona y de qué documento oficial sale cada dato.",
+  "texto_en": "Actions on facial recognition, biometric identification, and video surveillance in Argentina, together with the litigation brought against them and the national data protection and policing rules that surround them. Several entries cover more than one instrument: the Buenos Aires City case takes in the resolution that created the system, the agreement that fed it, two rulings, and an investigation; the SIBIOS entry takes in two decrees. Each entry sets out what the norm does, what it connects to, and which official document each fact comes from."
+ },
+ {
+  "etiqueta_es": "Qué no reúne",
+  "etiqueta_en": "What this leaves out",
+  "texto_es": "Normas donde la biometría o la inteligencia artificial aparecen mencionadas sin crear ni modificar una obligación. Proyectos de ley ajenos al reconocimiento facial. Jurisdicciones fuera de la Nación, la Ciudad de Buenos Aires y la Provincia de Buenos Aires.",
+  "texto_en": "Norms where biometrics or artificial intelligence are mentioned without creating or changing an obligation. Bills unrelated to facial recognition. Jurisdictions outside the nation, Buenos Aires City, and the Province of Buenos Aires."
+ },
+ {
+  "etiqueta_es": "Jerarquía",
+  "etiqueta_en": "Hierarchy",
+  "texto_es": "No todas las normas de este sitio pesan igual. La Constitución está por encima de todo. Le siguen los tratados internacionales, que tienen jerarquía superior a las leyes. Después las leyes, sancionadas por el Congreso o por una legislatura. Por debajo, los decretos del Poder Ejecutivo, que reglamentan cómo se aplica una ley sin poder contradecirla. En la base, las resoluciones de un ministerio y las disposiciones de un organismo, que fijan el detalle operativo dentro de lo que ya autorizó una norma superior. La mayor parte de los instrumentos de este repositorio son resoluciones y disposiciones.",
+  "texto_en": "The norms on this site do not carry equal weight. The Constitution sits above everything. Next come international treaties, which rank above statutes. Then statutes, passed by Congress or by a legislature. Below those, executive decrees, which set out how a statute applies without being able to contradict it. At the base, ministerial resolutions and agency dispositions, which fix operational detail within what a higher norm already authorised. Most instruments in this repository are resolutions and dispositions."
+ },
+ {
+  "etiqueta_es": "Qué es un DNU",
+  "etiqueta_en": "What a DNU is",
+  "texto_es": "Un decreto de necesidad y urgencia es una norma que dicta el Poder Ejecutivo solo, sin pasar primero por el Congreso. La Constitución lo permite únicamente en circunstancias excepcionales que hagan imposible el trámite legislativo ordinario, y lo prohíbe en materia penal, tributaria, electoral y de partidos políticos. Tiene efecto inmediato, como si fuera una ley, y sigue vigente salvo que ambas cámaras del Congreso lo rechacen expresamente.",
+  "texto_en": "An emergency decree is a norm the executive issues alone, without first going through Congress. The Constitution allows it only in exceptional circumstances that make the ordinary legislative route impossible, and bars it in criminal, tax, electoral, and political-party matters. It takes effect immediately, as a statute would, and stays in force unless both chambers of Congress expressly reject it."
+ },
+ {
+  "etiqueta_es": "Cómo se cita",
+  "etiqueta_en": "How sources work",
+  "texto_es": "Cada afirmación remite a un documento oficial y a la fecha en que se lo leyó. Cuando un dato no pudo verificarse contra una fuente primaria, la ficha lo dice en lugar de omitirlo. Cuando un documento existe pero su contenido está retirado de publicación, la ficha lo señala como tal.",
+  "texto_en": "Every statement points to an official document and the date it was read. Where a fact could not be verified against a primary source, the entry says so rather than omitting it. Where a document exists but its content is withheld from publication, the entry marks it as such."
+ },
+ {
+  "etiqueta_es": "Vigencia",
+  "etiqueta_en": "Currency",
+  "texto_es": "La legislación cambia. Cada ficha indica la fecha en que se leyó el documento que cita, y el corpus se cerró en agosto de 2026. Una norma puede haberse modificado, derogado o reemplazado después de esa fecha, y un expediente judicial puede haber avanzado. Conviene cotejar contra la fuente oficial antes de usar estos datos.",
+  "texto_en": "Legislation changes. Each entry gives the date the cited document was read, and the corpus closed in August 2026. A norm may have been amended, repealed, or replaced after that date, and a court case may have moved on. It is worth checking against the official source before relying on anything here."
+ },
+ {
+  "etiqueta_es": "Uso de inteligencia artificial",
+  "etiqueta_en": "AI statement",
+  "texto_es": "Este sitio se hizo con ayuda de inteligencia artificial para organizar el material, acceder a los textos oficiales y redactar los primeros borradores de las fichas.",
+  "texto_en": "This site was made with the help of artificial intelligence to organise the material, access the official texts, and draft early versions of the entries."
+ }
+]
