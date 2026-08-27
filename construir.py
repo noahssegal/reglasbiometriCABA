@@ -12,7 +12,7 @@ Editar el texto de una ficha = editar data/fichas.json y volver a correr.
 Sin dependencias externas.
 """
 
-import json, re, shutil, html
+import json, re, shutil, html, hashlib
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent
@@ -57,6 +57,9 @@ def bi(es, en, tag="span"):
     return f'<{tag} class="es">{es}</{tag}><{tag} class="en">{en}</{tag}>'
 
 
+VERSION_CSS = hashlib.md5((RAIZ / "estilo.css").read_bytes()).hexdigest()[:8]
+
+
 def cabecera(titulo, activo, prof=0):
     base = ""
     def act(p):
@@ -67,7 +70,7 @@ def cabecera(titulo, activo, prof=0):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(titulo)}</title>
-<link rel="stylesheet" href="{base}estilo.css">
+<link rel="stylesheet" href="{base}estilo.css?v={VERSION_CSS}">
 </head>
 <body data-idioma="es">
 <div class="envoltura">
