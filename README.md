@@ -1,11 +1,11 @@
 # Marco legal — reconocimiento facial y vigilancia biométrica en Argentina
 
-Repositorio público de veinte fichas sobre reconocimiento facial, identificación
+Repositorio público de veintidós fichas sobre reconocimiento facial, identificación
 biométrica y videovigilancia en la Nación, la Ciudad de Buenos Aires y la
 Provincia de Buenos Aires, con el litigio que se les opuso y las normas de
 protección de datos que los rodean. Bilingüe, castellano e inglés.
 
-> **El corpus no completó todavía su revisión final de verificación.** Nueve de las veinte fichas pasaron por una
+> **El corpus no completó todavía su revisión final de verificación.** Nueve de las veintidós fichas pasaron por una
 > lectura independiente contra el documento original; las once restantes se
 > apoyan por ahora en una sola lectura, y ocho citan documentos cuyo enlace
 > oficial no está resuelto. Se publica en ese estado, no como un texto cerrado.
@@ -28,7 +28,7 @@ Todo el contenido vive en cuatro archivos de datos. El sitio se genera a partir
 de ellos, en Python, sin dependencias externas.
 
 ```
-data/fichas.json       las veinte fichas
+data/fichas.json       las veintidós fichas
 data/cronologia.json   la portada
 data/derechos.json     "Qué se puede hacer"
 data/encuadre.json     "Sobre este sitio"
@@ -75,13 +75,13 @@ las fichas.
 
 # Legal framework — facial recognition and biometric surveillance in Argentina
 
-A public repository of twenty entries on facial recognition, biometric
+A public repository of twenty-two entries on facial recognition, biometric
 identification, and video surveillance at national level, in Buenos Aires City,
 and in the Province of Buenos Aires, together with the litigation brought
 against them and the data protection rules that surround them. Bilingual,
 Spanish and English.
 
-> **The corpus has not yet completed its final verification review.** Nine of the twenty entries have been through an
+> **The corpus has not yet completed its final verification review.** Nine of the twenty-two entries have been through an
 > independent reading against the original document; the remaining eleven rest on
 > a single reading, and eight cite documents whose official link is unresolved.
 > It is published in that state, not as a closed text.

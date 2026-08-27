@@ -6,67 +6,77 @@
    "nombre_es": "Saber qué bases de datos existen",
    "nombre_en": "Find out which databases exist",
    "norma": "Ley 25.326, art. 13",
-   "texto_es": "Cualquier persona puede pedirle a la AAIP información sobre la existencia de archivos, registros y bases de datos personales, sus finalidades y quién es su responsable. El registro es de consulta pública y gratuita.[1]",
-   "texto_en": "Any individual can ask the AAIP for information about the existence of personal data files, registries and databases, their purposes, and who runs them. The registry is open to the public and free to consult.[1]"
+   "texto_es": "Cualquier persona puede preguntarle a la AAIP qué archivos, registros y bases de datos personales existen, para qué son y quién los tiene a cargo. El registro es de consulta pública y gratuita.[1] La AAIP no publica un trámite para consultar ese registro (última verificación: agosto de 2026).[1]",
+   "texto_en": "Any individual can ask the AAIP which personal data files, registries and databases exist, what they are for, and who runs them. The register is public and free to consult.[1] The AAIP lists no procedure for consulting that register (as of the August 2026 check).[1]"
   },
   {
    "nombre_es": "Pedir los datos propios",
    "nombre_en": "Request your own data",
    "norma": "Ley 25.326, arts. 14 a 15",
-   "texto_es": "El titular de los datos, acreditando su identidad, puede pedir y obtener la información sobre sus datos personales incluidos en bases públicas o privadas. El responsable debe entregarla <span class=\"plazo\">dentro de los diez días corridos</span> de recibida la intimación fehaciente.[1] La información debe darse en lenguaje accesible, sin codificaciones, y abarcar todo el registro, no solo la parte que se preguntó.[1] Es gratuita, a intervalos no menores a seis meses.[1]",
-   "texto_en": "The data subject, on proving identity, can request and obtain information about their personal data held in public or private databases. The holder must provide it within ten calendar days of receiving formal notice.[1] The information must be given in plain language, without codes, and cover the whole record, not only the part asked about.[1] It is free, at intervals of no less than six months.[1]"
+   "texto_es": "Podés pedirle a cualquier base pública o privada qué tiene sobre vos, acreditando tu identidad. El responsable tiene diez días corridos desde la intimación fehaciente para contestar.[1] La respuesta debe estar en lenguaje claro, sin códigos, y cubrir todo el registro, no sólo la parte que preguntaste.[1] Es gratis, una vez cada seis meses.[1]",
+   "texto_en": "You can ask any public or private database what it holds about you, once you prove your identity. The holder has ten calendar days from formal notice to answer.[1] The answer must be in plain language, without codes, and must cover the whole record — not only the part you asked about.[1] It is free, once every six months.[1]",
+   "enlace_es": "Si no cumplen: denuncia ante la AAIP",
+   "enlace_en": "If they refuse: report to the AAIP",
+   "enlace_url": "https://www.argentina.gob.ar/aaip/tramites#3"
   },
   {
    "nombre_es": "Corregir o borrar datos",
    "nombre_en": "Correct or delete data",
    "norma": "Ley 25.326, art. 16",
-   "texto_es": "Toda persona puede exigir que se rectifiquen, actualicen o supriman sus datos personales. El responsable debe hacerlo <span class=\"plazo\">dentro de los cinco días hábiles</span> de recibido el reclamo. Si no cumple en ese plazo, queda habilitada la acción de habeas data sin más trámite. Si los datos ya habían sido cedidos a otro organismo, el responsable debe notificarle la corrección dentro del quinto día hábil.[1]",
-   "texto_en": "Any individual can demand that their personal data be corrected, updated or deleted. The holder must act within five working days of receiving the claim. If it fails to comply within that period, the habeas data action becomes available with no further step. If the data had already been transferred to another agency, the holder must notify that agency of the correction within five working days.[1]"
+   "texto_es": "Podés exigir que tus datos se rectifiquen, actualicen o supriman. El responsable tiene cinco días hábiles desde tu reclamo para hacerlo.[1] Si vence ese plazo, el habeas data queda habilitado de inmediato, sin más trámite. Si ya había cedido los datos a otro organismo, debe notificarle la corrección dentro de los cinco días hábiles.[1]",
+   "texto_en": "You can demand that your data be corrected, updated or deleted. The holder has five working days from your claim to act.[1] Miss that deadline and habeas data opens immediately, with no further step. If the holder already passed the data to another agency, it must tell that agency about the correction within five working days.[1]",
+   "enlace_es": "Si no cumplen: denuncia ante la AAIP",
+   "enlace_en": "If they refuse: report to the AAIP",
+   "enlace_url": "https://www.argentina.gob.ar/aaip/tramites#3"
   },
   {
    "nombre_es": "Datos policiales que ya no hacen falta",
    "nombre_en": "Police data no longer needed",
    "norma": "Ley 25.326, art. 23.3",
-   "texto_es": "Los datos personales registrados con fines policiales deben cancelarse cuando dejan de ser necesarios para las averiguaciones que motivaron su almacenamiento.[1] La obligación pesa sobre el organismo, sin que la persona tenga que pedirlo. La PIA verificó que el RENAPER no ejecutó ninguna cancelación en más de tres años.[3]",
-   "texto_en": "Personal data recorded for policing purposes must be deleted once it is no longer needed for the inquiries that prompted storing it.[1] The duty falls on the agency, without the individual having to ask. The PIA found that the identity registry executed no cancellation in over three years.[3]"
+   "texto_es": "Los datos registrados con fines policiales deben cancelarse cuando ya no sean necesarios para las averiguaciones que motivaron su almacenamiento.[1] El deber es del organismo; no hace falta que lo pidas.[1]",
+   "texto_en": "Data recorded for policing purposes must be deleted once the inquiries that prompted storing it no longer need it.[1] The duty sits with the agency; you do not have to ask.[1]"
   },
   {
    "nombre_es": "Decisiones que no puede tomar un sistema solo",
    "nombre_en": "Decisions a system cannot make alone",
    "norma": "Ley 25.326, art. 20",
-   "texto_es": "Las decisiones judiciales y los actos administrativos que impliquen apreciar o valorar conductas humanas no pueden tener como único fundamento el resultado de un tratamiento informatizado que defina el perfil o la personalidad de la persona. Los actos contrarios a esta regla son, según el texto de la ley, «insanablemente nulos».[1]",
-   "texto_en": "Court decisions and administrative acts that assess or evaluate human conduct cannot rest solely on the output of automated processing that profiles a individual's character or personality. Acts contrary to this rule are, in the statute's words, “incurably void.”[1]"
+   "texto_es": "Una decisión judicial o un acto administrativo que valore conductas humanas no puede fundarse únicamente en un tratamiento automatizado que defina el perfil o la personalidad de alguien. La ley llama «insanablemente nulos» a los actos que violan esta regla.[1]",
+   "texto_en": "A court decision or an administrative act that judges human conduct cannot rest only on automated processing that profiles someone's character or personality. The statute calls acts that break this rule “incurably void.”[1]"
   },
   {
    "nombre_es": "Preguntarle al Estado",
    "nombre_en": "Asking the State",
    "norma": "Ley 27.275, arts. 4, 9, 11",
-   "texto_es": "Cualquier persona puede pedir información pública sin explicar para qué, sin acreditar interés legítimo y sin abogado. El pedido se presenta por escrito o por medios electrónicos ante el organismo que tenga la información, sin más formalidad que la identidad, la identificación clara de lo que se pide y un dato de contacto; el organismo debe entregar una constancia del trámite. El plazo de respuesta es de <span class=\"plazo\">quince días hábiles</span>, prorrogable por otros quince mediante acto fundado comunicado antes del vencimiento.[4]",
-   "texto_en": "Any individual can request public information without saying why, without showing a legitimate interest, and without a lawyer. The request is filed in writing or electronically with the body holding the information, with no formality beyond identity, a clear description of what is sought, and contact details; the body must issue a receipt. The response deadline is fifteen working days, extendable by another fifteen through a reasoned decision communicated before expiry.[4]"
+   "texto_es": "Cualquier persona puede pedir información pública. No tenés que decir para qué, ni acreditar interés legítimo, ni contratar abogado.[4] Se presenta por escrito o por medios electrónicos ante el organismo que tiene la información. Lo único que se exige es tu identidad, una descripción clara de lo que buscás y datos de contacto; el organismo debe darte una constancia.[4] Tiene quince días hábiles para responder, prorrogables por quince más mediante decisión fundada que debe comunicarte antes de que venza el primer plazo.[4]",
+   "texto_en": "Any individual can request public information. You need not say why, show a legitimate interest, or hire a lawyer.[4] File it in writing or electronically with the body that holds the information. The only requirements are your identity, a clear description of what you want, and contact details; the body must give you a receipt.[4] It has fifteen working days to answer, extendable by fifteen more through a reasoned decision it must communicate before the first period runs out.[4]",
+   "enlace_es": "Solicitud de Acceso a la Información",
+   "enlace_en": "Access request form",
+   "enlace_url": "https://www.argentina.gob.ar/aaip/tramites#1"
   },
   {
    "nombre_es": "Si el Estado no responde",
    "nombre_en": "If the State does not answer",
    "norma": "Ley 27.275, arts. 13 a 17",
-   "texto_es": "El silencio, la ambigüedad, la inexactitud o la entrega incompleta cuentan como denegatoria injustificada. La persona puede reclamar ante la AAIP <span class=\"plazo\">dentro de los cuarenta días hábiles</span> de vencido el plazo de respuesta; la AAIP debe decidir dentro de los treinta días hábiles, y si falla a favor, el organismo tiene diez días hábiles para entregar. También se puede ir directamente a la justicia contencioso administrativa federal, por la vía del amparo, dentro de los cuarenta días hábiles: la ley dice expresamente que no hace falta agotar la vía administrativa.[4]",
-   "texto_en": "Silence, ambiguity, inaccuracy, or incomplete delivery all count as unjustified refusal. The individual can file a claim with the AAIP within forty working days of the response deadline passing; the AAIP must decide within thirty working days, and if it rules in the individual's favour, the body has ten working days to hand over the information. It is also possible to go straight to the federal administrative courts by the amparo route within forty working days: the statute says expressly that exhausting the administrative route is not required.[4]"
+   "texto_es": "El silencio, la ambigüedad, la inexactitud y la entrega incompleta cuentan como denegatoria injustificada.[4] Tenés cuarenta días hábiles desde el vencimiento para reclamar ante la AAIP. Debe resolver en treinta días hábiles, y si te da la razón, el organismo tiene diez días hábiles para entregar la información.[4] También podés ir directo a la justicia contencioso administrativa federal por amparo, dentro de esos mismos cuarenta días hábiles. La ley dice expresamente que no hace falta agotar antes la vía administrativa.[4]",
+   "texto_en": "Silence, ambiguity, inaccuracy and incomplete delivery all count as unjustified refusal.[4] You have forty working days from the deadline to file a claim with the AAIP. It must decide within thirty working days, and if it rules for you, the body has ten working days to hand the information over.[4] You can also go straight to the federal administrative courts by amparo, within the same forty working days. The statute says expressly that you need not exhaust the administrative route first.[4]",
+   "enlace_es": "Reclamo de Acceso a la Información",
+   "enlace_en": "Access complaint form",
+   "enlace_url": "https://www.argentina.gob.ar/aaip/tramites#2"
   },
   {
    "nombre_es": "Ir a la Justicia: habeas data",
    "nombre_en": "Going to court: habeas data",
    "norma": "Ley 25.326, arts. 33 a 37 · art. 43 CN",
-   "texto_es": "Si el plazo vence sin respuesta, o la respuesta es insuficiente, procede la acción de habeas data. La puede iniciar la persona afectada, sus tutores o curadores, o sus sucesores; el Defensor del Pueblo puede intervenir como coadyuvante. La persona elige el juez: el de su propio domicilio, el del demandado, o el del lugar donde el hecho tenga efecto. La competencia es federal cuando se dirige contra bases públicas nacionales o contra bases interconectadas en redes interjurisdiccionales. Tramita por la vía del amparo.[1][2]",
-   "texto_en": "If the deadline passes without an answer, or the answer is insufficient, the habeas data action is available. It can be brought by the affected individual, their guardians, or their heirs; the Ombudsman may join in support. The individual chooses the court: their own domicile, the defendant's, or where the act takes effect. Jurisdiction is federal when the action targets national public databases or databases interconnected across jurisdictions. It proceeds by the amparo route.[1][2]"
+   "texto_es": "Si vence el plazo sin respuesta, o la respuesta es insuficiente, queda habilitado el habeas data.[1] Podés iniciarlo vos, o tus tutores o herederos; el Defensor del Pueblo puede intervenir como coadyuvante.[1] Elegís el juzgado: el de tu domicilio, el del demandado o el del lugar donde el hecho tiene efecto.[1] La competencia es federal cuando se dirige contra bases públicas nacionales, o contra bases interconectadas entre jurisdicciones.[1] Tramita por la vía del amparo.[1][2]",
+   "texto_en": "If the deadline passes with no answer, or the answer falls short, habeas data is available.[1] You can bring it yourself, or your guardians or heirs can; the Ombudsman may join in support.[1] You choose the court: where you live, where the defendant is, or where the act takes effect.[1] Jurisdiction is federal when the target is a national public database, or one interconnected across jurisdictions.[1] It runs by the amparo procedure.[1][2]"
   },
   {
    "nombre_es": "Saber que se está hablando con una IA",
    "nombre_en": "Knowing you are dealing with an AI",
    "norma": "Res. PBA 9/2025, art. 14",
-   "texto_es": "En la Provincia de Buenos Aires, los organismos públicos provinciales que usen sistemas de inteligencia artificial para comunicarse con la ciudadanía deben advertirlo de forma expresa y clara, antes de la interacción.[5]",
-   "texto_en": "In the Province of Buenos Aires, provincial public bodies using artificial intelligence systems to communicate with the public must give express and clear warning, before the interaction.[5]"
+   "texto_es": "En la Provincia de Buenos Aires, un organismo público que use un sistema de inteligencia artificial para comunicarse con el público debe avisarte de forma expresa y clara, antes de que empiece la interacción.[5]",
+   "texto_en": "In Buenos Aires Province, a public body that uses an artificial intelligence system to communicate with the public must warn you expressly and clearly, before the interaction starts.[5]"
   }
  ],
- "aviso_es": "Estos procedimientos tienen límites escritos en la propia ley. El artículo 17 de la Ley 25.326 permite a un organismo público denegar el acceso, la rectificación o la supresión mediante decisión fundada, invocando la defensa de la Nación, el orden y la seguridad públicos, la protección de derechos de terceros, o el riesgo de obstaculizar una investigación penal en curso. La decisión debe ser fundada y notificada. El artículo 8 de la Ley 27.275 excluye del acceso la información clasificada como reservada por razones de defensa o política exterior. Buena parte de los instrumentos de este repositorio cae dentro de esas categorías. El repositorio también registra qué pasó cuando estos derechos se ejercieron: la respuesta escrita sobre el «Gemelo Digital Social» existe porque una fundación usó la ley de acceso; el fallo «Torres Abad» existe porque una jubilada presentó un habeas data.",
- "aviso_en": "These procedures have limits written into the statutes themselves. Article 17 of Ley 25.326 lets a public body refuse access, correction, or deletion by reasoned decision, invoking national defence, public order and security, the protection of third parties' rights, or the risk of obstructing an ongoing criminal investigation. The decision must be reasoned and notified. Article 8 of Ley 27.275 excludes from access information classified as reserved for defence or foreign-policy reasons. A good share of the instruments in this repository fall within those categories.",
  "fuentes": "[1] Ley 25.326 de Protección de los Datos Personales — texto actualizado oficial de InfoLEG, leído completo el 04/08/2026: servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/texact.htm. Nota: el texto publicado no refleja la declaración de inconstitucionalidad de los arts. 5°.2.b y 11°.3.b y c dictada en «Torres Abad» — una declaración de inconstitucionalidad rige para el caso y no borra el artículo del texto legal. [2] Constitución Nacional, art. 43 — cotejado palabra por palabra contra el PDF oficial de Presidencia de la Nación el 12/07/2026. [3] Resolución PIA, legajo 228/22 — releída 10/07/2026. [4] Ley 27.275 de Derecho de Acceso a la Información Pública — texto actualizado oficial de InfoLEG, leído completo el 04/08/2026. [5] Resolución 9/2025, Subsecretaría de Gobierno Digital PBA, art. 14 — texto oficial leído 04/08/2026. Pendiente: los plazos y vías de reclamo de la Ciudad de Buenos Aires se rigen por la Ley 1845 (datos personales) y su propio régimen de acceso a la información, que este repositorio todavía no leyó en texto oficial; hasta entonces esta página describe únicamente el régimen nacional y el provincial citado."
 }

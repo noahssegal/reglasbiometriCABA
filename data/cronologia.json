@@ -10,6 +10,16 @@
   ]
  },
  {
+  "anio": "2009",
+  "der": [
+   {
+    "nombre": "CONARC — Decreto 346/2009",
+    "slug": "nac-conarc",
+    "jur": "nacional"
+   }
+  ]
+ },
+ {
   "anio": "2011",
   "der": [
    {
@@ -25,6 +35,11 @@
    {
     "nombre": "Ley 5688, Libro VII (videovigilancia)",
     "slug": "caba-ley-5688",
+    "hilo": true
+   },
+   {
+    "nombre": "Ley 5688: cámaras privadas en la red",
+    "slug": "caba-camaras-privadas",
     "hilo": true
    }
   ],
@@ -71,7 +86,7 @@
    },
    {
     "nombre": "Res. 398/MJYSGC/19 (crea el sistema)",
-    "slug": "caba-caso-srfp",
+    "slug": "caba-res-398-2019",
     "hilo": true
    }
   ]
@@ -138,11 +153,6 @@
    {
     "nombre": "Disposición RENAPER 1255/2023",
     "slug": "nac-renaper",
-    "jur": "nacional"
-   },
-   {
-    "nombre": "Decreto Reglamentario 98/2023",
-    "slug": "nac-dto-98-2023",
     "jur": "nacional"
    }
   ]

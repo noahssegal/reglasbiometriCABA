@@ -127,19 +127,16 @@ body{
 .ficha-estado{font-size:12.5px;color:var(--tinta-media);margin:0 0 30px}
 
 .bloque{
-  display:grid;
-  grid-template-columns:96px minmax(0,1fr);
-  gap:22px;
   border-top:0.5px solid var(--regla);
-  padding-top:17px;
-  margin-bottom:17px;
+  padding-top:15px;
+  margin-bottom:20px;
 }
 .bloque-etiqueta{
   font-size:11px;
   letter-spacing:0.06em;
   color:var(--tinta-clara);
   text-transform:uppercase;
-  padding-top:3px;
+  margin-bottom:7px;
 }
 .bloque-texto{font-size:15.5px;line-height:1.7}
 .bloque-texto p{margin:0}
@@ -219,14 +216,11 @@ sup a:hover{text-decoration:underline}
 .leyenda .marca{color:var(--judicial)}
 
 .derecho{
-  display:grid;
-  grid-template-columns:150px minmax(0,1fr);
-  gap:22px;
   border-top:0.5px solid var(--regla);
-  padding-top:17px;
-  margin-bottom:17px;
+  padding-top:15px;
+  margin-bottom:20px;
 }
-.derecho-nombre{font-size:14.5px;line-height:1.4;padding-top:1px}
+.derecho-nombre{font-size:14.5px;line-height:1.4;margin-bottom:6px}
 .derecho-nombre .norma{display:block;font-family:var(--mono);font-size:10.5px;color:var(--tinta-clara);margin-top:3px}
 .norma-enl{
   color:inherit;
@@ -277,8 +271,6 @@ body[data-idioma="en"] .es{display:none}
 @media (max-width:640px){
   .envoltura{padding:0 20px}
   .ficha-titulo{font-size:22px}
-  .bloque,.derecho{grid-template-columns:minmax(0,1fr);gap:8px}
-  .bloque-etiqueta{padding-top:0}
   .fila{grid-template-columns:46px minmax(0,1fr);row-gap:2px}
   .fila .estado{grid-column:2;text-align:left}
   .crono,.crono-cabeza{grid-template-columns:minmax(0,1fr)}
@@ -288,4 +280,103 @@ body[data-idioma="en"] .es{display:none}
     text-align:left;border-left:1px solid #C9C7BE;padding:0 0 4px 14px;margin-left:0;
   }
   .crono .eje span{background:none;margin-left:0;width:auto}
+}
+
+.ficha-nota{
+  font-size:12px;
+  color:var(--tinta-clara);
+  margin:0 0 4px;
+  max-width:none;
+}
+.ficha-nota + .ficha-nota{margin-bottom:0}
+
+
+/* ---------- árbol de la página de derechos ---------- */
+
+.arbol{border-top:0.5px solid var(--regla);padding-top:20px}
+.nodo{margin-bottom:4px}
+.nodo-p{
+  font-family:var(--serif);
+  font-size:18px;
+  line-height:1.4;
+  margin:0 0 15px;
+}
+.nodo-op{
+  display:block;
+  width:100%;
+  text-align:left;
+  font-family:var(--sans);
+  font-size:14.5px;
+  line-height:1.5;
+  color:var(--tinta);
+  background:none;
+  border:0.5px solid var(--regla-fuerte);
+  border-radius:0;
+  padding:11px 14px;
+  margin-bottom:7px;
+  cursor:pointer;
+}
+.nodo-op:hover{background:#F3F1EC;border-color:var(--tinta-media)}
+.eco{
+  border-left:2px solid var(--regla);
+  padding:0 0 0 14px;
+  margin:0 0 16px;
+  font-size:13px;
+  line-height:1.5;
+}
+.eco-p{display:block;color:var(--tinta-clara)}
+.eco-r{display:block;color:var(--tinta-media)}
+.nodo-r{
+  border-top:0.5px solid var(--regla);
+  padding-top:17px;
+  margin-top:6px;
+}
+.nodo-r .derecho-nombre{font-size:17px;margin-bottom:9px}
+.arbol-reset{margin:22px 0 0}
+#reset{
+  font-family:var(--sans);
+  font-size:12.5px;
+  color:var(--tinta-media);
+  background:none;
+  border:none;
+  border-bottom:0.5px solid var(--regla-fuerte);
+  border-radius:0;
+  padding:0;
+  cursor:pointer;
+}
+#reset:hover{color:var(--tinta);border-bottom-color:var(--tinta)}
+
+/* ---------- listas dentro de una ficha ---------- */
+
+ul.lista{margin:9px 0 0;padding-left:18px}
+ul.lista li{margin-bottom:6px}
+
+/* ---------- secciones plegadas de la portada ---------- */
+
+details.pliegue{
+  border-top:0.5px solid var(--regla);
+  padding-top:14px;
+  margin-top:30px;
+}
+details.pliegue summary{
+  cursor:pointer;
+  font-size:14px;
+  color:var(--tinta);
+  list-style:none;
+}
+details.pliegue summary::-webkit-details-marker{display:none}
+details.pliegue summary::before{content:"▸ ";color:var(--tinta-clara)}
+details.pliegue[open] summary::before{content:"▾ "}
+details.pliegue summary:hover{color:var(--tinta-media)}
+.cuenta{font-family:var(--mono);font-size:11px;color:var(--tinta-clara);margin-left:5px}
+details.pliegue .derecho:first-of-type,
+details.pliegue .indice{margin-top:14px}
+.tramite{margin:9px 0 0;font-size:13px}
+.tramite a{color:var(--tinta-media);border-bottom:0.5px solid var(--regla-fuerte);text-decoration:none}
+.tramite a:hover{color:var(--tinta);border-bottom-color:var(--tinta)}
+.tramite-nota{
+  margin:20px 0 0;
+  font-size:12px;
+  color:var(--tinta-clara);
+  line-height:1.6;
 }

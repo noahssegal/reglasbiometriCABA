@@ -1,0 +1,229 @@
+{
+ "actualizado": "2026-08-07",
+ "nota": "Registro de instrumentos. Cada uno está en exactamente una categoría. El vigilante del boletín compara contra esta lista: lo que no figure acá es nuevo y hay que decidirlo.",
+ "fichas": [
+  {
+   "slug": "nac-ley-25326",
+   "instrumento": "Ley 25.326 (protección de datos personales)",
+   "jurisdiccion": "nacional",
+   "anio": "2000"
+  },
+  {
+   "slug": "nac-conarc",
+   "instrumento": "CONARC — Decreto 346/2009",
+   "jurisdiccion": "nacional",
+   "anio": "2009"
+  },
+  {
+   "slug": "nac-sibios",
+   "instrumento": "SIBIOS — Decretos 1766/2011 y 243/2017",
+   "jurisdiccion": "nacional",
+   "anio": "2011"
+  },
+  {
+   "slug": "nac-ley-27275",
+   "instrumento": "Ley 27.275 (acceso a la información pública)",
+   "jurisdiccion": "nacional",
+   "anio": "2016"
+  },
+  {
+   "slug": "caba-ley-5688",
+   "instrumento": "Ley 5688, Libro VII, y Ley 6339 (videovigilancia y reconocimiento facial)",
+   "jurisdiccion": "caba",
+   "anio": "2016"
+  },
+  {
+   "slug": "caba-camaras-privadas",
+   "instrumento": "Ley 5688, Libro VII: cámaras privadas en la red pública",
+   "jurisdiccion": "caba",
+   "anio": "2016"
+  },
+  {
+   "slug": "caba-res-398-2019",
+   "instrumento": "Resolución 398/MJYSGC/19 (crea el sistema de reconocimiento facial)",
+   "jurisdiccion": "caba",
+   "anio": "2019"
+  },
+  {
+   "slug": "nac-renaper",
+   "instrumento": "RENAPER — Disposiciones 4133/2018 y 1255/2023",
+   "jurisdiccion": "nacional",
+   "anio": "2018"
+  },
+  {
+   "slug": "nac-convenios-108",
+   "instrumento": "Convenios 108 y 108+ (Leyes 27.483 y 27.699)",
+   "jurisdiccion": "nacional",
+   "anio": "2018"
+  },
+  {
+   "slug": "caba-caso-srfp",
+   "instrumento": "Caso SRFP (Expte. 182908/2020-0)",
+   "jurisdiccion": "caba",
+   "anio": "2019"
+  },
+  {
+   "slug": "nac-afip",
+   "instrumento": "AFIP: validación facial (RG 5266/2022 y cadena)",
+   "jurisdiccion": "nacional",
+   "anio": "2020"
+  },
+  {
+   "slug": "caba-res-351-2024",
+   "instrumento": "Resolución 351/2024 (guía operativa del SIP)",
+   "jurisdiccion": "caba",
+   "anio": "2024"
+  },
+  {
+   "slug": "nac-uiaas-710-2024",
+   "instrumento": "Resolución MS 710/2024 (Unidad de IA Aplicada a la Seguridad)",
+   "jurisdiccion": "nacional",
+   "anio": "2024"
+  },
+  {
+   "slug": "nac-res-ms-1234",
+   "instrumento": "Resolución MS 1234/2024 (protocolo facial federal)",
+   "jurisdiccion": "nacional",
+   "anio": "2024"
+  },
+  {
+   "slug": "caba-clearview",
+   "instrumento": "Clearview AI / Fiscalía porteña",
+   "jurisdiccion": "caba",
+   "anio": "2025"
+  },
+  {
+   "slug": "nac-res-ms-866",
+   "instrumento": "Resolución MS 866/2025 (red federal de lectura de patentes)",
+   "jurisdiccion": "nacional",
+   "anio": "2025"
+  },
+  {
+   "slug": "pba-res-9-2025",
+   "instrumento": "Resolución PBA 9/2025 (reglas de IA)",
+   "jurisdiccion": "pba",
+   "anio": "2025"
+  },
+  {
+   "slug": "nac-dnu-941",
+   "instrumento": "DNU 941/2025 (inteligencia)",
+   "jurisdiccion": "nacional",
+   "anio": "2025"
+  },
+  {
+   "slug": "nac-aicr",
+   "instrumento": "Acuerdo comercial con EE.UU. (AICR), Anexo III",
+   "jurisdiccion": "nacional",
+   "anio": "2026"
+  },
+  {
+   "slug": "nac-torres-abad",
+   "instrumento": "CSJN «Torres Abad»",
+   "jurisdiccion": "nacional",
+   "anio": "2026"
+  },
+  {
+   "slug": "nac-gemelo-digital",
+   "instrumento": "«Gemelo Digital Social» (ausencia documentada)",
+   "jurisdiccion": "nacional",
+   "anio": "2026"
+  },
+  {
+   "slug": "nac-proyectos-facial",
+   "instrumento": "Proyectos de ley sobre reconocimiento facial",
+   "jurisdiccion": "nacional",
+   "anio": "2026"
+  }
+ ],
+ "citados_sin_ficha": [
+  {
+   "instrumento": "Res. MS 428/2024",
+   "citado_en": "nac-uiaas-710-2024",
+   "estado": "PENDIENTE DE DECISIÓN",
+   "motivo": "Citada como única fuente de reglas de uso de la UIAAS. No leída."
+  },
+  {
+   "instrumento": "Decreto 965/2025 (PBA)",
+   "citado_en": "pba-res-9-2025",
+   "estado": "PENDIENTE DE DECISIÓN",
+   "motivo": "Asignó competencia en sistemas de información a la subsecretaría. Probable exclusión: competencia administrativa, no norma biométrica."
+  },
+  {
+   "instrumento": "Ley 1845 (CABA, datos personales)",
+   "citado_en": "caba-ley-5688, derechos",
+   "estado": "PENDIENTE DE ADQUISICIÓN",
+   "motivo": "El art. 481 de la Ley 5688 condiciona a ella su declaración sobre intimidad. Citada también en la sentencia de Cámara y en la Res. 398."
+  },
+  {
+   "instrumento": "Decreto 995/2000",
+   "citado_en": "—",
+   "estado": "PENDIENTE DE DECISIÓN",
+   "motivo": "Vetó los puntos 2 y 3 del art. 29 de la Ley 25.326, sobre el órgano de control."
+  },
+  {
+   "instrumento": "Decreto 746/2017",
+   "citado_en": "nac-ley-27275",
+   "estado": "PENDIENTE DE DECISIÓN",
+   "motivo": "Sustituyó el art. 19 de la Ley 27.275 y le dio a la AAIP las dos competencias."
+  },
+  {
+   "instrumento": "Decretos 614/24, 383/25, 274/25",
+   "citado_en": "nac-dnu-941",
+   "estado": "PENDIENTE DE DECISIÓN",
+   "motivo": "Reorganización de la SIDE sobre la que se apoya el DNU 941/2025."
+  },
+  {
+   "instrumento": "Ley 17.671 (RENAPER)",
+   "citado_en": "nac-renaper",
+   "estado": "PENDIENTE DE ADQUISICIÓN",
+   "motivo": "Define qué es el RENAPER. Necesaria para la descripción de base."
+  },
+  {
+   "instrumento": "Decreto 391/18 (CABA)",
+   "citado_en": "caba-res-398-2019",
+   "estado": "EXCLUIDO",
+   "motivo": "Encomienda al Vicejefe de Gobierno la conducción del Ministerio de Justicia y Seguridad. Delegación institucional, no norma sobre biometría ni videovigilancia. Excluido 07/08/2026."
+  },
+  {
+   "instrumento": "Decreto 98/2023",
+   "citado_en": "—",
+   "estado": "EXCLUIDO",
+   "motivo": "Inteligencia artificial en salud. Fuera del alcance del repositorio por decisión editorial, 07/08/2026."
+  }
+ ],
+ "exclusiones_por_categoria": [
+  "Normas que mencionan biometría o inteligencia artificial sin crear ni modificar una obligación.",
+  "Proyectos de ley ajenos al reconocimiento facial.",
+  "Jurisdicciones fuera de la Nación, CABA y PBA.",
+  "Normas procesales y de competencia administrativa citadas al pasar por las fuentes (Ley 451, Ley 16.986, Ley 1903, Ley 17.622, Ley 1218, Ley 14.828, Ley 15.477, Decretos 1018/2016 y 3/2024)."
+ ],
+ "terminos_de_busqueda": [
+  "reconocimiento facial",
+  "identificación biométrica",
+  "datos biométricos",
+  "videovigilancia",
+  "video vigilancia",
+  "inteligencia artificial",
+  "CONARC",
+  "RENAPER",
+  "protección de datos personales"
+ ],
+ "fuentes_a_vigilar": [
+  {
+   "nombre": "Boletín Oficial de la República Argentina",
+   "url": "https://www.boletinoficial.gob.ar"
+  },
+  {
+   "nombre": "Boletín Oficial CABA",
+   "url": "https://boletinoficial.buenosaires.gob.ar"
+  },
+  {
+   "nombre": "Normas PBA",
+   "url": "https://normas.gba.gob.ar"
+  },
+  {
+   "nombre": "InfoLEG",
+   "url": "https://servicios.infoleg.gob.ar"
+  }
+ ]
+}

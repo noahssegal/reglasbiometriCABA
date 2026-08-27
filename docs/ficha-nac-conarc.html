@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es" data-idioma="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CONARC — Decreto 346/2009 — Marco legal</title>
+<link rel="stylesheet" href="estilo.css">
+</head>
+<body data-idioma="es">
+<div class="envoltura">
+<header class="sitio-cabecera">
+  <a class="marca" href="index.html"><span class="es">Marco legal</span><span class="en">Legal framework</span></a>
+  <nav class="nav">
+    <a href="index.html"><span class="es">Qué se puede hacer</span><span class="en">What you can do</span></a>
+    <a href="cronologia.html"><span class="es">Cronología</span><span class="en">Chronology</span></a>
+    <a href="indice.html"><span class="es">Índice</span><span class="en">Index</span></a>
+    <a href="encuadre.html"><span class="es">Sobre este sitio</span><span class="en">About</span></a>
+    <button class="idioma" type="button" onclick="cambiarIdioma()"><span class="es">EN</span><span class="en">ES</span></button>
+  </nav>
+</header>
+<article><div class="ficha-meta"><span class="es">Nacional · Biometría</span><span class="en">National · Biometría</span></div><h1 class="ficha-titulo"><span class="es">CONARC — Decreto 346/2009</span><span class="en">CONARC — Decreto 346/2009 (national register of capture orders)</span></h1><p class="ficha-estado"><span class="es">vigente · operativo</span><span class="en">in force · operating</span></p><section class="bloque"><div class="bloque-etiqueta"><span class="es">Qué hace</span><span class="en">What it does</span></div><div class="bloque-texto"><p class="es">El Decreto 346/2009 creó el CONARC, el registro nacional de órdenes de rebeldía y captura.<sup><a href="#fuentes">1</a></sup> Reúne la totalidad de los autos de rebeldía, captura, averiguación de paradero y comparendo que tiene el Registro Nacional de Reincidencia.<sup><a href="#fuentes">1</a></sup></p><p class="en">Decreto 346/2009 created CONARC, the national register of failure-to-appear and capture orders.<sup><a href="#fuentes">1</a></sup> It gathers every failure-to-appear order, capture order, whereabouts inquiry and summons held by the National Recidivism Registry.<sup><a href="#fuentes">1</a></sup></p></div></section><section class="bloque"><div class="bloque-etiqueta"><span class="es">En contexto: Por qué importa acá</span><span class="en">In context: Why it matters here</span></div><div class="bloque-texto"><p class="es">El sistema de reconocimiento facial porteño compara rostros contra esta base, de modo que su contenido determina qué puede reconocer ese sistema.<sup><a href="#fuentes">2</a></sup> La resolución que creó el sistema porteño registra 46.785 órdenes de captura vigentes a abril de 2019, y señala que el Ministerio de Justicia nacional publica el listado a diario en formato abierto.<sup><a href="#fuentes">2</a></sup></p><p class="en">Buenos Aires City's facial recognition system compares faces against this database, so its contents set what that system can match.<sup><a href="#fuentes">2</a></sup> The resolution that created the city system records 46,785 active capture orders as of April 2019, and notes that the national justice ministry publishes the list daily in open format.<sup><a href="#fuentes">2</a></sup></p></div></section><section class="bloque" id="fuentes"><div class="bloque-etiqueta"><span class="es">Fuentes</span><span class="en">Sources</span></div><div class="fuentes">[1] Decreto 346/2009, sancionado 21/04/2009, BO 23/04/2009 — texto oficial leído 07/08/2026 (argentina.gob.ar/normativa/nacional/decreto-346-2009-152565/texto). [2] Resolución 398/MJYSGC/19, considerandos — ver esa ficha. Pendiente: el conjunto de datos abierto del CONARC (datos.jus.gob.ar) no fue descargado ni analizado.</div></section><nav class="pie-ficha"><span><a href="ficha-nac-ley-25326.html">← Ley 25.326 (protección de datos personales)</a></span><span><a href="ficha-nac-sibios.html">SIBIOS — Decretos 1766/2011 y 243/2017 →</a></span></nav></article><footer class="sitio-pie">
+  <div class="nota">
+    <span class="es">Cada afirmación cita un documento oficial y la fecha de acceso.</span>
+    <span class="en">Every statement cites an official document and date accessed.</span>
+    <span class="es">La ficha señala dónde un dato no pudo verificarse contra una fuente primaria, y dónde un documento existe pero está retirado de publicación.</span>
+    <span class="en">Entry notes where fact could not be verified against primary source, and where a document exists but is withheld from publication.</span>
+  </div>
+  <p class="fecha"><span class="es">Corpus cerrado en agosto de 2026. Revisión editorial completa.</span><span class="en">Corpus closed August 2026. Editorial review complete.</span></p>
+</footer>
+</div>
+<script>
+function cambiarIdioma(){
+  var b=document.body,n=b.dataset.idioma==='es'?'en':'es';
+  b.dataset.idioma=n;document.documentElement.lang=n;
+  try{localStorage.setItem('idioma',n)}catch(e){}
+}
+try{var g=localStorage.getItem('idioma');
+if(g){document.body.dataset.idioma=g;document.documentElement.lang=g}}catch(e){}
+</script>
+</body>
+</html>
