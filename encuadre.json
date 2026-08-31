@@ -1,0 +1,20 @@
+[
+  {
+    "etiqueta_es": "Alcance",
+    "etiqueta_en": "Scope",
+    "texto_es": "Veintitrés fichas sobre actos de reconocimiento facial, la identificación biométrica y la videovigilancia en Argentina, el litigio que se les opuso, y las normas nacionales de protección de datos y de seguridad que los rodean. Varias fichas reúnen más de un instrumento: el caso porteño abarca la resolución que creó el sistema, el convenio que lo alimentó, dos sentencias y una investigación; la ficha de SIBIOS abarca dos decretos. Cada ficha dice qué hace la norma, con qué se relaciona y de qué documento oficial sale cada dato.",
+    "texto_en": "Twenty-three entries on acts of facial recognition, biometric identification and video surveillance in Argentina, the litigation brought against them, and the national data protection and policing rules around them. Several entries cover more than one instrument: the Buenos Aires City case takes in the resolution that created the system, the agreement that fed it, two rulings and an investigation; the SIBIOS entry takes in two decrees. Each entry says what the norm does, what it connects to, and which official document each fact comes from."
+  },
+  {
+    "etiqueta_es": "Vigencia de la información",
+    "etiqueta_en": "Currency of the information",
+    "texto_es": "La legislación cambia. Cada ficha indica la fecha en que alguien leyó el documento que cita, y el corpus se cerró en agosto de 2026. Una norma puede haberse modificado, derogado o reemplazado desde entonces, y un expediente judicial puede haber avanzado. Cotejá contra la fuente oficial antes de usar estos datos.",
+    "texto_en": "Legislation changes. Each entry gives the date someone read the document it cites, and the corpus closed in August 2026. A norm may have been amended, repealed or replaced since then, and a court case may have moved on. Check the official source before relying on anything here."
+  },
+  {
+    "etiqueta_es": "Uso de inteligencia artificial",
+    "etiqueta_en": "Use of artificial intelligence",
+    "texto_es": "Este sitio se hizo con ayuda de inteligencia artificial para organizar el material, acceder a los textos oficiales y redactar los primeros borradores de las fichas. La inteligencia artificial también escribió el código con el que se generó el sitio.",
+    "texto_en": "This site was made with the help of artificial intelligence to organise the material, access the official texts, and draft early versions of the entries. Artificial intelligence also wrote the code that generated the site."
+  }
+]
